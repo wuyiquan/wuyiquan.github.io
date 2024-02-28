@@ -33,6 +33,19 @@ Now I'm also a visiting student in the University of Innsbruck, Austria. I am ex
 
 # 📝 Publications 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Work in Progress</div><img src='images/ns2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Naturalspeech 2: Latent diffusion models are natural and zero-shot speech and singing synthesizers](https://arxiv.org/pdf/2304.09116.pdf) \\
+**Kai Shen**, Zeqian Ju, Xu Tan, Yanqing Liu, Yichong Leng, Lei He, Tao Qin, Sheng Zhao, Jiang Bian
+
+[**Project**](https://speechresearch.github.io/naturalspeech2/)
+
+- NaturalSpeech 2 is the first large-scale non-autoregressive text-to-speech synthesis system. It can generate high-quality speech with only a 3-second prompt!
+</div>
+</div>
+
 - ``AAAI'24`` ["De-biased Attention Supervision for Text Classification with Causality"](), **Yiquan Wu**, Yifei Liu, Ziyu Zhao, Weiming Lu, Yating Zhang, Changlong Sun, Fei Wu, Kun Kuang. 
 
 - ``COLING'24`` ["Enhancing Court View Generation with Knowledge Injection and Guidance"](), Ang Li, **Yiquan Wu**, Yifei Liu, Kun Kuang, Fei Wu and Ming Cai.
