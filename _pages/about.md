@@ -33,7 +33,29 @@ Now I'm also a visiting student in the University of Innsbruck, Austria. I am ex
 
 # 📝 Publications 
 
+- ``AAAI'24`` "De-biased Attention Supervision for Text Classification with Causality", **Yiquan Wu**, Yifei Liu, Ziyu Zhao, Weiming Lu, Yating Zhang, Changlong Sun, Fei Wu, Kun Kuang. 
 
+- ``COLING'24`` "Enhancing Court View Generation with Knowledge Injection and Guidance", Ang Li, **Yiquan Wu**, Yifei Liu, Kun Kuang, Fei Wu and Ming Cai.
+
+- ``COLING'24`` "From Graph to Word Bag: Introducing Domain Knowledge to Confusing Charge Prediction", Ang Li, Qiangchao Chen, **Yiquan Wu**, Xiang Zhou, Kun Kuang, Fei Wu and Ming Cai.
+
+- ``EMNLP'23(oral)`` "Precedent-Enhanced Legal Judgment Prediction with LLM and Domain-Model Collaboration", **Yiquan Wu**, Siying Zhou, Yifei Liu, Weiming Lu, Xiaozhong Liu, Yating Zhang, Changlong Sun, Fei Wu, Kun Kuang. 
+
+- ``ACL'23-Findings`` "Focusaware Response Generation in Inquiry Conversation", **Yiquan Wu**, Weiming Lu, Yating Zhang, Adam Jatowt, Jun Feng, Changlong Sun, Fei Wu, Kun Kuang.
+
+- ``SIGIR'23`` "ML-LJP: MultiLaw Aware Legal Judgment Prediction", Yifei Liu*, **Yiquan Wu***, Yating Zhang, Changlong Sun, Weiming Lu, Fei Wu, Kun Kuang.
+
+- ``EMNLP'22` "Towards Interactivity and Interpretability: A Rationale-based Legal Judgment Prediction Framework", **Yiquan Wu**, Yifei Liu, Weiming Lu, Yating Zhang, Jun Feng, Changlong Sun, Fei Wu, Kun Kuang.
+
+- ``ACL'22`` "De-Bias for Generative Extraction in Unified NER Task", Shuai Zhang, Yongliang Shen, Zeqi Tan, **Yiquan Wu**, Weiming Lu.
+
+- ``CICAI'22`` "Similar Case Based Prison Term Prediction", Siying Zhou, Yifei Liu, **Yiquan Wu**, Kun Kuang, Chunyan Zheng, Fei Wu.
+
+- ``Artificial Intelligence and Law`` "LK-IB: a hybrid framework with legal knowledge injection for compulsory measure prediction", Xiang Zhou, Qi Liu, **Yiquan Wu**, Qiangchao Chen, and Kun Kuang.
+
+- ``EMNLP'20`` "De-biased Court’s View Generation with Causality", **Yiquan Wu**, Kun Kuang, Yating Zhang, Xiaozhong Liu, Changlong Sun, Jun Xiao, Yueting Zhuang, Luo Si, Fei Wu.
+
+- ``SIGIR'20-Workshop`` "Automatic Text Revision with Application to Legal Documents", **Yiquan Wu**, Kun Kuang, Fei Wu.
 
 
 # 🎖 Honors and Awards
