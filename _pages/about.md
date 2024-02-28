@@ -84,7 +84,7 @@ The model can also be accessed [online](https://modelscope.cn/studios/wisdomOcea
 
 # 🏃 Sport Awards
 <div align="center">
-<img src='/images/basketball.png' alt="basketball" width="70%">
+<img src='/images/basketball.png' alt="basketball" width="60%">
 </div>
 
 <!-- ![Image](../images/basketball.png "basketball") -->
