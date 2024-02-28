@@ -16,14 +16,13 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am a final year Ph.D. student of Zhejiang University, supervised by Prof. [Kun Kuang](https://kunkuang.github.io/) and Prof. [Fei Wu](https://mypage.zju.edu.cn/wufei). I obtained my B.S. degree at Zhejiang University. I also collaborate with Prof. [Xiaozhong Liu](https://www.wpi.edu/people/faculty/xliu14) from Worcester Polytechnic Institute and Prof. [Adam Jatowt](https://adammo12.github.io/aj/) from University of Innsbruck closely.
+Hello! I'm currently wrapping up my Ph.D. journey at Zhejiang University, supervised by Prof. [Kun Kuang](https://kunkuang.github.io/) and Prof. [Fei Wu](https://mypage.zju.edu.cn/wufei). I obtained my B.S. degree from Zhejiang University. I closely collaborate with Prof. [Xiaozhong Liu](https://www.wpi.edu/people/faculty/xliu14) from Worcester Polytechnic Institute and Prof. [Adam Jatowt](https://adammo12.github.io/aj/) from the University of Innsbruck.
 
-My research interest includes LLM, NLP, LegalAI and Causal Inference. I have published more than 10 papers includes ACL, EMNLP, SIGIR, AAAI, et al.
+My research interests include LLM, NLP, LegalAI, and Causal Inference. I have published more than 10 papers in conferences such as ACL, EMNLP, SIGIR, and AAAI, among others.
 
-I am the main contributor of open-source legal LLM [wisdomInterrogatory](https://github.com/zhihaiLLM/wisdomInterrogatory), by which I was invited to participate in the [Yunqi Conference](https://yunqi.aliyun.com/).
+I am the main contributor to the open-source legal LLM project [wisdomInterrogatory](https://github.com/zhihaiLLM/wisdomInterrogatory), which led to an invitation to participate in the [Yunqi Conference](https://yunqi.aliyun.com/).
 
-Now I'm also a visiting student in the University of Innsbruck, Austria. I am expected to graduate in June 2024 and seeking job opportunities. Please feel free to [contact me](wuyiquan@zju.edu.cn) if you are interested!
-
+Currently, I am also a visiting student at the University of Innsbruck, Austria. I expect to graduate in June 2024 and am seeking job opportunities. Please feel free to [contact me](wuyiquan@zju.edu.cn) if you are interested!
 
 # 🔥 News
 - *2024.02*: &nbsp;🎉🎉 **Two** papers are accepted by COLING'24! 
@@ -31,7 +30,17 @@ Now I'm also a visiting student in the University of Innsbruck, Austria. I am ex
 - *2023.10*: &nbsp;🎉🎉 **One** paper is accepted by EMNLP'23!
 - *2023.08*: &nbsp;🎉🎉 The open-sourced legal large language model [wisdomInterrogatory](https://github.com/zhihaiLLM/wisdomInterrogatory) is released!
 
-# 📝 Publications 
+# 📝 Projects and Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/luwen.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+[**wisdomInterrogatory**](https://github.com/zhihaiLLM/wisdomInterrogatory) \| [![](https://img.shields.io/github/stars/zhihaiLLM/wisdomInterrogatory?style=social&label=Stars)](https://github.com/zhihaiLLM/wisdomInterrogatory) (智海-录问 in Chinese) is an open-source Legal LLM that involves constructing training data, accelerating model training, integrating knowledge bases, and developing evaluation metrics. The model offers legal assistance services such as Q&A, case analysis, and legal document generation. It has garnered over 400 stars, more than 6,730 downloads, and over 110,000 uses. As the **project leader**, I was invited to participate in the [Yunqi Conference](https://yunqi.aliyun.com/).
+
+The model can also be accessed [online](https://modelscope.cn/studios/wisdomOcean/wisdomInterrogatory/summary).
+</div>
+</div>
 
 - ``AAAI'24`` ["De-biased Attention Supervision for Text Classification with Causality"](), **Yiquan Wu**, Yifei Liu, Ziyu Zhao, Weiming Lu, Yating Zhang, Changlong Sun, Fei Wu, Kun Kuang. 
 
@@ -83,17 +92,15 @@ Now I'm also a visiting student in the University of Innsbruck, Austria. I am ex
 
 <!-- ![Image](../images/basketball.png "basketball") -->
 
-- ``2019 - Now`` Captain of the Zhejiang University men's basketball team
+- ``2019 - Now`` Captain of the Zhejiang University Men's Basketball Team.
 
-- ``2019, 2020, 2021`` Chinese University Basketball Association (CUBA) Outstanding Athlete
+- ``2019, 2020, 2021`` Recognized as an Outstanding Athlete by the Chinese University Basketball Association (CUBA).
 
-- ``2016, 2018, 2019, 2020, 2021`` 🥇 First place in Zhejiang Province University Basketball Association
+- ``2021`` 🥈 Second Place in the Chinese University Basketball Association (CUBA).
 
-- ``2021`` 🥈 Second place in Chinese University Basketball Association (CUBA)
+- ``2016, 2018, 2019, 2020, 2022`` 🥇🥇🥇🥇🥇 First Place in the Zhejiang Province University Basketball Association (ZUBA).
 
-- ``2020`` 🥉 Third place in Chinese University Basketball Association (CUBA)
-
-- ``2019`` 🥇 First place in both Men's 100 meters and Javelin throw in the school sports meeting.
+- ``2019`` 🥇🥇 First Place in both the Men's 100 meters and Javelin throw at the school sports meeting
 
 
 
