@@ -34,6 +34,7 @@ Now I'm also a visiting student in the University of Innsbruck, Austria. I am ex
 # 📝 Publications 
 
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Work in Progress</div><img src='images/ns2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -45,6 +46,17 @@ Now I'm also a visiting student in the University of Innsbruck, Austria. I am ex
 - NaturalSpeech 2 is the first large-scale non-autoregressive text-to-speech synthesis system. It can generate high-quality speech with only a 3-second prompt!
 </div>
 </div>
+
+
+- ``Work in Progress`` [PromptTTS 2: Describing and Generating Voices with Text Prompt](https://arxiv.org/abs/2309.02285), Yichong Leng, Zhifang Guo, **Kai Shen**, Xu Tan, Zeqian Ju, Yanqing Liu, Yufei Liu, Dongchao Yang, Leying Zhang, Kaitao Song, Lei He, Xiang-Yang Li, Sheng Zhao, Tao Qin, Jiang Bian
+- ``EMNLP 2023`` [Mask the correct tokens: An embarrassingly simple approach for error correction](https://arxiv.org/pdf/2211.13252.pdf), **Kai Shen**, Yichong Leng, Xu Tan, Siliang Tang, Yuan Zhang, Wenjie Liu, Edward Lin
+
+
+
+## 📚 Machine Translation 
+- ``Work in Progress`` [A Study on ReLU and Softmax in Transformer](https://arxiv.org/pdf/2302.06461.pdf), **Kai Shen**, Junliang Guo, Xu Tan, Siliang Tang, Rui Wang, Jiang Bian
+
+
 
 - ``AAAI'24`` ["De-biased Attention Supervision for Text Classification with Causality"](), **Yiquan Wu**, Yifei Liu, Ziyu Zhao, Weiming Lu, Yating Zhang, Changlong Sun, Fei Wu, Kun Kuang. 
 
