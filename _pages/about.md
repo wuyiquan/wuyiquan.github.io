@@ -66,15 +66,6 @@ The model can also be accessed [online](https://modelscope.cn/studios/wisdomOcea
 
 - ``SIGIR'20-Workshop`` ["Automatic Text Revision with Application to Legal Documents"](https://legalai2020.github.io/file/wuyiquan.pdf), **Yiquan Wu**, Kun Kuang, Fei Wu.
 
-
-# 🎖 Honors and Awards
-- ``2019`` Zhejiang Province Excellent Graduate (Top 3%) 
-- ``2023`` BOC Fundamental Subjects Scholarship (Top 1%)
-- ``2017,2022`` Sports and Arts Scholarship (Top 1%)
-- ``2016,2017,2018,2020,2021,2023`` Excellent Student of Zhejiang University (Top 8%) 
-- ``2016,2017,2018`` Academic Scholarship (Top 20%) 
-
-
 # 📖 Educations
 - *2019.06 - Now*, Ph.D., Zhejiang University, Hangzhou, China.
 
@@ -84,6 +75,12 @@ The model can also be accessed [online](https://modelscope.cn/studios/wisdomOcea
 
 - *2012.09 - 2015.06*, Yuyao High School, Ningbo, China.
 
+# 🎖 Honors and Awards
+- ``2019`` Zhejiang Province Excellent Graduate (Top 3%) 
+- ``2023`` BOC Fundamental Subjects Scholarship (Top 1%)
+- ``2017,2022`` Sports and Arts Scholarship (Top 1%)
+- ``2016,2017,2018,2020,2021,2023`` Excellent Student of Zhejiang University (Top 8%) 
+- ``2016,2017,2018`` Academic Scholarship (Top 20%) 
 
 # 🏃 Sport Awards
 <div align="center">
