@@ -77,7 +77,10 @@ Now I'm also a visiting student in the University of Innsbruck, Austria. I am ex
 
 
 # 🏃 Sport Awards
-![Image](../images/basketball.png "basketball")
+<div align="center">
+<img src="../images/basketball.png" alt="basketball" title="basketball" width=70%/>
+</div>
+
 
 - ``2019 - Now`` Captain of the Zhejiang University men's basketball team
 
@@ -89,7 +92,6 @@ Now I'm also a visiting student in the University of Innsbruck, Austria. I am ex
 
 - ``2020`` 🥉 Third place in Chinese University Basketball Association (CUBA)
 
-![Image](../images/running.png/ "running")
 - ``2019`` 🥇 First place in both Men's 100 meters and Javelin throw in the school sports meeting.
 
 
