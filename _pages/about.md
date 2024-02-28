@@ -32,7 +32,7 @@ Currently, I am also a visiting student at the University of Innsbruck, Austria.
 
 # 📝 Projects and Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/luwen.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/luwen.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
