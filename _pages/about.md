@@ -46,11 +46,13 @@ Now I'm also a visiting student in the University of Innsbruck, Austria. I am ex
 
 
 # 📖 Educations
-- *2019.06 - 2024.06*, Ph.D., Zhejiang University, Hangzhou.
+- *2019.06 - 2024.06*, Ph.D., Zhejiang University, Hangzhou, China.
 
-- *2015.09 - 2019.06*, Undergraduate, Computer Science, Zhejiang Univeristy, Hangzhou.
+- *2023.12 - 2024.06*, Visiting student, University of Innsbruck, Innsbruck, Austria.
 
-- *2012.09 - 2015.06*, Yuyao High School, Ningbo, Zhejiang.
+- *2015.09 - 2019.06*, Undergraduate, Computer Science, Zhejiang Univeristy, Hangzhou, China.
+
+- *2012.09 - 2015.06*, Yuyao High School, Ningbo, China.
 
 
 <!-- # 💬 Invited Talks
