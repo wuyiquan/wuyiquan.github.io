@@ -77,9 +77,7 @@ Now I'm also a visiting student in the University of Innsbruck, Austria. I am ex
 
 
 # 🏃 Sport Awards
-<div align="center">
 <img src="../images/basketball.png" alt="basketball" title="basketball" width=70%/>
-</div>
 
 
 - ``2019 - Now`` Captain of the Zhejiang University men's basketball team
