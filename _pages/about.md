@@ -64,24 +64,37 @@ Now I'm also a visiting student in the University of Innsbruck, Austria. I am ex
 - ``2017,2022`` Sports and Arts Scholarship (Top 1%)
 - ``2016,2017,2018,2020,2021,2023`` Excellent Student of Zhejiang University (Top 8%) 
 - ``2016,2017,2018`` Academic Scholarship (Top 20%) 
-- ``2019, 2020, 2021`` Chinese University Basketball Association (CUBA) Outstanding Athlete 
 
 
 # 📖 Educations
-- *2019.06 - 2024.06*, Ph.D., Zhejiang University, Hangzhou, China.
+- *2019.06 - Now*, Ph.D., Zhejiang University, Hangzhou, China.
 
-- *2023.12 - 2024.06*, Visiting student, University of Innsbruck, Innsbruck, Austria.
+- *2023.12 - Now*, Visiting student, University of Innsbruck, Innsbruck, Austria.
 
 - *2015.09 - 2019.06*, Undergraduate, Computer Science, Zhejiang Univeristy, Hangzhou, China.
 
 - *2012.09 - 2015.06*, Yuyao High School, Ningbo, China.
 
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+# 🏃 Sport Awards
+![Image](../images/basketball.png "basketball")
+
+- ``2019 - Now`` Captain of the Zhejiang University men's basketball team
+
+- ``2019, 2020, 2021`` Chinese University Basketball Association (CUBA) Outstanding Athlete
+
+- ``2016, 2018, 2019, 2020, 2021`` 🥇 First place in Zhejiang Province University Basketball Association
+
+- ``2021`` 🥈 Second place in Chinese University Basketball Association (CUBA)
+
+- ``2020`` 🥉 Third place in Chinese University Basketball Association (CUBA)
+
+![Image](../images/running.png/ "running")
+- ``2019`` 🥇 First place in both Men's 100 meters and Javelin throw in the school sports meeting.
+
+
 
 # 💻 Internships
-- *2018.11 - 2024.06*, [Damo Academy](https://damo.alibaba.com/), Hangzhou.
+- *2018.11 - Now*, [Damo Academy](https://damo.alibaba.com/), Hangzhou.
 
 - *2018.06 - 2018.10*, [YiWise](https://www.yiwise.com/), Hangzhou.
