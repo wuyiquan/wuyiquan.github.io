@@ -92,7 +92,7 @@ The model can also be accessed [online](https://modelscope.cn/studios/wisdomOcea
 
 <!-- ![Image](../images/basketball.png "basketball") -->
 
-- ``2019 - Now`` Captain of the Zhejiang University Men's Basketball Team.
+- ``2019 - Present`` Captain of the Zhejiang University Men's Basketball Team.
 
 - ``2019, 2020, 2021`` Recognized as an Outstanding Athlete by the Chinese University Basketball Association (CUBA).
 
