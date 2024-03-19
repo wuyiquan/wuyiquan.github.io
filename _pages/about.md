@@ -25,7 +25,7 @@ I am the main contributor to the open-source legal LLM project [wisdomInterrogat
 Currently, I am also a visiting student at the University of Innsbruck, Austria. I expect to graduate in June 2024 and am seeking job opportunities. Please feel free to [contact me](mailto:wuyiquan@zju.edu.cn) if you are interested!
 
 # 🔥 News
-- *2024.03*: &nbsp;🎉🎉 **One** papers are accepted by NAACL'24! 
+- *2024.03*: &nbsp;🎉🎉 **One** paper is accepted by NAACL'24! 
 - *2024.02*: &nbsp;🎉🎉 **Two** papers are accepted by COLING'24! 
 - *2023.12*: &nbsp;🎉🎉 **One** paper is accepted by AAAI'24!
 - *2023.10*: &nbsp;🎉🎉 **One** paper is accepted by EMNLP'23!
