@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 Hello! I'm currently wrapping up my Ph.D. journey at Zhejiang University, supervised by Prof. [Kun Kuang](https://kunkuang.github.io/) and Prof. [Fei Wu](https://mypage.zju.edu.cn/wufei). I obtained my B.S. degree from Zhejiang University. I closely collaborate with Prof. [Xiaozhong Liu](https://www.wpi.edu/people/faculty/xliu14) from Worcester Polytechnic Institute and Prof. [Adam Jatowt](https://adammo12.github.io/aj/) from the University of Innsbruck.
 
-My research interests include LLM, NLP, LegalAI, and Causal Inference. I have published more than 10 papers in conferences such as ACL, EMNLP, SIGIR, and AAAI, among others.
+My research interests include LLM, NLP, LegalAI, and Causal Inference. I have published more than 10 papers in conferences such as ACL, EMNLP, NAACL, SIGIR, and AAAI, among others.
 
 I am the main contributor to the open-source legal LLM project [wisdomInterrogatory](https://github.com/zhihaiLLM/wisdomInterrogatory), which led to an invitation to participate in the [Yunqi Conference](https://yunqi.aliyun.com/).
 
@@ -45,7 +45,9 @@ The model can also be accessed [online](https://modelscope.cn/studios/wisdomOcea
 
 - ``AAAI'24`` ["De-biased Attention Supervision for Text Classification with Causality"](), **Yiquan Wu**, Yifei Liu, Ziyu Zhao, Weiming Lu, Yating Zhang, Changlong Sun, Fei Wu, Kun Kuang. 
 
-- ``COLING'24`` ["Enhancing Court View Generation with Knowledge Injection and Guidance"](https://arxiv.org/html/2403.04366v1), Ang Li, **Yiquan Wu**, Yifei Liu, Kun Kuang, Fei Wu and Ming Cai.
+- ``NAACL'24-Findins`` ["Unleashing the Power of LLMs in Court View Generation by Stimulating Internal Knowledge and Incorporating External Knowledge"](), Yifei Liu, **Yiquan Wu**, Ang Li, Yating Zhang, Changlong Sun, Weiming Lu, Fei Wu, Kun Kuang
+
+- ``COLING'24`` ["Enhancing Court View Generation with Knowledge Injection and Guidance"](https://arxiv.org/html/2403.04366v1), Ang Li, **Yiquan Wu**, Yifei Liu, Kun Kuang, Fei Wu, Ming Cai.
 
 - ``COLING'24`` ["From Graph to Word Bag: Introducing Domain Knowledge to Confusing Charge Prediction"](https://arxiv.org/pdf/2403.04369.pdf), Ang Li, Qiangchao Chen, **Yiquan Wu**, Xiang Zhou, Kun Kuang, Fei Wu and Ming Cai.
 
@@ -68,11 +70,11 @@ The model can also be accessed [online](https://modelscope.cn/studios/wisdomOcea
 - ``SIGIR'20-Workshop`` ["Automatic Text Revision with Application to Legal Documents"](https://legalai2020.github.io/file/wuyiquan.pdf), **Yiquan Wu**, Kun Kuang, Fei Wu.
 
 # 📖 Educations
-- *2019.06 - Now*, Ph.D., Zhejiang University, Hangzhou, China.
+- *2019.06 - Present*, Ph.D., Zhejiang University, Hangzhou, China.
 
-- *2023.12 - Now*, Visiting student, University of Innsbruck, Innsbruck, Austria.
+- *2023.12 - Present*, Visiting student, University of Innsbruck, Innsbruck, Austria.
 
-- *2015.09 - 2019.06*, Undergraduate, Computer Science, Zhejiang Univeristy, Hangzhou, China.
+- *2015.09 - 2019.06*, Undergraduate, Computer Science, Zhejiang University, Hangzhou, China.
 
 - *2012.09 - 2015.06*, Yuyao High School, Ningbo, China.
 
@@ -103,6 +105,6 @@ The model can also be accessed [online](https://modelscope.cn/studios/wisdomOcea
 
 
 # 💻 Internships
-- *2018.11 - Now*, [Damo Academy](https://damo.alibaba.com/), Hangzhou.
+- *2018.11 - Present*, [Damo Academy](https://damo.alibaba.com/), Hangzhou.
 
 - *2018.06 - 2018.10*, [YiWise](https://www.yiwise.com/), Hangzhou.
