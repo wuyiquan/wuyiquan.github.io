@@ -29,7 +29,6 @@ Currently, I am also a visiting student at the University of Innsbruck, Austria.
 - *2024.03*: &nbsp;🎉🎉 **One** paper is accepted by NAACL'24! 
 - *2024.02*: &nbsp;🎉🎉 **Two** papers are accepted by COLING'24! 
 - *2023.12*: &nbsp;🎉🎉 **One** paper is accepted by AAAI'24!
-- *2023.10*: &nbsp;🎉🎉 **One** paper is accepted by EMNLP'23!
 - *2023.08*: &nbsp;🎉🎉 The open-sourced legal large language model [wisdomInterrogatory](https://github.com/zhihaiLLM/wisdomInterrogatory) is released!
 
 # 📝 Projects and Publications
