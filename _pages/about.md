@@ -18,11 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 Hello! I'm currently wrapping up my Ph.D. journey at Zhejiang University, supervised by Prof. [Kun Kuang](https://kunkuang.github.io/) and Prof. [Fei Wu](https://mypage.zju.edu.cn/wufei). I obtained my B.S. degree from Zhejiang University. I closely collaborate with Prof. [Xiaozhong Liu](https://www.wpi.edu/people/faculty/xliu14) from Worcester Polytechnic Institute and Prof. [Adam Jatowt](https://adammo12.github.io/aj/) from the University of Innsbruck.
 
-My research interests include LLM, NLP, LegalAI, and Causal Inference. I have published more than 10 papers in conferences such as ACL, EMNLP, NAACL, SIGIR, and AAAI, among others.
+My research interests include LLM, NLP, LegalAI, and Causal Inference. I have published more than 10 papers in conferences such as ACL, EMNLP, NAACL, SIGIR, AAAI, KDD, and so on.
 
 I am the main contributor to the open-source legal LLM project [wisdomInterrogatory](https://github.com/zhihaiLLM/wisdomInterrogatory), which led to an invitation to participate in the [Yunqi Conference](https://yunqi.aliyun.com/).
 
-Currently, I am also a visiting student at the University of Innsbruck, Austria. I expect to graduate in June 2024 and am seeking job opportunities. Please feel free to [contact me](mailto:wuyiquan@zju.edu.cn) if you are interested!
+From 2023 to 2024, I am fortunate to be a visiting student at the University of Innsbruck, Austria. I expect to graduate in June 2024 and am seeking job opportunities. Please feel free to [contact me](mailto:wuyiquan@zju.edu.cn) if you are interested!
 
 # 🔥 News
 - *2024.05*: &nbsp;🎉🎉 **One** paper is accepted by KDD'24! 
@@ -45,6 +45,12 @@ Currently, I am also a visiting student at the University of Innsbruck, Austria.
 The model can also be accessed [online](https://modelscope.cn/studios/wisdomOcean/wisdomInterrogatory/summary).
 </div>
 </div>
+
+- ``KDD'24'' ["Xinyu: An Efficient LLM-based System for Commentary Generation"](), **Yiquan Wu**, Bo Tang, Chenyang Xi, Yu Yu, Pengyu Wang, Yifei Liu, Kun Kuang, Haiying Deng, Zhiyu li, Feiyu Xiong, Jie Hu, Cheng Peng, Zhonghao Wang, WangYi, Yi Luo, Mingchuan Yang
+
+- ``ACL'24-Findings`` ["Chain-of-Quizzes: Pedagogy-inspired Example Selection in In-Context-Learning"](), **Yiquan Wu**, Anlai Zhou, Yuhang Liu, Yifei Liu, Adam Jatowt, Weiming Lu, Jun Xiao, Kun Kuang
+
+- ``ACL'24-Findings`` ["Latent Learningscape Guided In-context Learning"](), Anlai Zhou, Sunshine Jiang, Yifei Liu, **Yiquan Wu**, Kun Kuang, Jun Xiao
 
 - ``KBS`` ["DuaPIN: Auxiliary task enhanced dual path interaction network for civil court view generation"](https://pdf.sciencedirectassets.com/271505/AIP/1-s2.0-S0950705124003630/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjELz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCID0FP7BbwAtq8W6IlDdcYzhv79lGDCsraPS0ZNWLYc5eAiEA4L%2B%2B6d8oVtZf8MuDTgOIGlfpX4hbT%2BwaNa2bS4Bj2iYqvAUI9P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgwwNTkwMDM1NDY4NjUiDLK0q8brLAFMRuImsSqQBcMzelqy1l51vvV46jqEeXz%2BgqwJJAgRwtj9vmLx3hZj7cSynH%2FHH2Oi1ceu58sL%2Bs04IhErRnwXhWpSAl95wEyZzNoBDCcEWNlaXOu5D86lP%2BCTSbWoCC8D0x5Y6paPlU7RLTn6jAs4TInoGdOfmMUiK64wDinD9YYZFs%2Bcc3LcB7d3SWIsHvxzikPOzYsvoGdpPwBBOzl1Ne1xe6tKpDr%2Fg2ljXwILTSWxB57yN%2BJJW2ouCfYEgrqaZJIFo0Z%2FUXYwV4kO%2F4nqwZmbZDNicwMi5fCxN4ej%2Bolucw4XnE9Opy3OtWhIB3J7zVUArj2WlWdDW2eTdLgHfqcLy2Xl6FXOtlMvmApjK1Mdbqu3UFPX8a625RXc1Jnwk9h2frhpBklgOmI8qcWJE%2Bf1ln62KsRmHvENUXHRvdUpET9yv3sFxMv7ZxavmDNwNJ1%2FkLxkAuc8uN6nWrKd%2FVzLlS%2BJvp%2B46LHV4amJbU5WbbSo6r9NOYLUo0rrzZrgttzB049rpg0qoKgnDIOt%2BtSNA9VGQrarGtTbZsfDhPc%2FLmLLw0HlNc3%2FP6%2B1r%2BG0QsAyYnjYXxVChsXd0n8T9lQni0tclvFnmyoXmDnp1l0o33v%2F9STx5YptrGd2ly9UsmJEStxHP8lCoI935XsUar%2FKe6xhUAwBK4Z%2FYRfy6UAO7zqGWm7NtZMZr5HCeD%2F7J%2FR33VCivdQhmDzkszpkCrQmDoPjgrmCFcS%2FMPs0Ngzb%2B6rcTDMpatyh0qxykpMAUKDXpwMeNIAyLCWw0keLiYK%2Fur83xuilTaRrYBHMtM39yvIFlQaXVmdfe9RpYMPDfYMfOjndE5qOWtuwscUW1boZSiwldMtR%2BT9x7bpIG%2B0wpEVlHRQ9MPLjhbEGOrEBLzPKpO%2FBFcd9nz5i2UOHfl2r0%2FOeHxMdqJ2kLJZ9dee%2FDixZ2iisbHRAu0NowHGVlhQNEsGFhN5Vfo9OtH8ZDA0gxO1ik%2B6WeU%2FNxAEQUVJKySv5LbC5PeasNjVgpj20MxwjEA6kpWVU%2FA6fcD21SDloIu7jBsEoSBpgoB4v0AtEZSRLkIiAd0NVaJkUA2XjgZ%2Ftq%2BKRGfpt7NZfIgFzl%2FaxcYRMeBFOyD29eN6EDMlh&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240418T193436Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYQPQ22URN%2F20240418%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=73425df1dd49fcca029e59bfd27468da4cbe1a2fb0690bbd0f24c26fb0f8bd3f&hash=4fd3a573c92df5780d7b6c3731ab7babeea8f12d08c9846af41bb5895ca25d58&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0950705124003630&tid=spdf-7c44f93a-ec16-4988-b957-60873b7ba844&sid=b42ec32a1d913940e218200541789bcbcde8gxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=0712585657565e590002&rr=876717df1deec217&cc=at), Nayu Liu, Luyao Ma, **Yiquan Wu**, Kaiwen Wei, Cunhang Fan, Yating Zhang.
   
@@ -75,9 +81,9 @@ The model can also be accessed [online](https://modelscope.cn/studios/wisdomOcea
 - ``SIGIR'20-Workshop`` ["Automatic Text Revision with Application to Legal Documents"](https://legalai2020.github.io/file/wuyiquan.pdf), **Yiquan Wu**, Kun Kuang, Fei Wu.
 
 # 📖 Educations
-- *2019.06 - Present*, Ph.D., Zhejiang University, Hangzhou, China.
+- *2019.09 - 2024.06*, Ph.D., Zhejiang University, Hangzhou, China.
 
-- *2023.12 - Present*, Visiting student, University of Innsbruck, Innsbruck, Austria.
+- *2023.12 - 2024.05*, Visiting student, University of Innsbruck, Innsbruck, Austria.
 
 - *2015.09 - 2019.06*, Undergraduate, Computer Science, Zhejiang University, Hangzhou, China.
 
