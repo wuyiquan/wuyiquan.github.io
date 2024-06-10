@@ -22,7 +22,12 @@ My research interests include LLM, NLP, LegalAI, and Causal Inference. I have pu
 
 I am the main contributor to the open-source legal LLM project [wisdomInterrogatory](https://github.com/zhihaiLLM/wisdomInterrogatory), which led to an invitation to participate in the [Yunqi Conference](https://yunqi.aliyun.com/).
 
-From 2023 to 2024, I am fortunate to be a visiting student at the University of Innsbruck, Austria. I expect to graduate in June 2024 and am seeking job opportunities. Please feel free to [contact me](mailto:wuyiquan@zju.edu.cn) if you are interested!
+From 2023 to 2024, I am fortunate to be a visiting student at the University of Innsbruck, Austria. 
+
+After graduation, I'm lucky to be an assistant professor (ZJU-100 Young Professor) at Zhejiang University.
+
+Please feel free to [contact me](mailto:wuyiquan@zju.edu.cn) if you are interested in working with us.
+
 
 # 🔥 News
 - *2024.05*: &nbsp;🎉🎉 **One** paper is accepted by KDD'24! 
