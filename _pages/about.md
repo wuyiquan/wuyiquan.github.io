@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Hello! I'm currently wrapping up my Ph.D. journey at Zhejiang University, supervised by Prof. [Kun Kuang](https://kunkuang.github.io/) and Prof. [Fei Wu](https://mypage.zju.edu.cn/wufei). I obtained my B.S. degree from Zhejiang University. I closely collaborate with Prof. [Xiaozhong Liu](https://www.wpi.edu/people/faculty/xliu14) from Worcester Polytechnic Institute and Prof. [Adam Jatowt](https://adammo12.github.io/aj/) from the University of Innsbruck.
+Hello! I'm an assistant professor (ZJU-100 Young Professor) at Zhejiang University. I obtained my Ph.D. Degree at Zhejiang University, supervised by Prof. [Kun Kuang](https://kunkuang.github.io/) and Prof. [Fei Wu](https://mypage.zju.edu.cn/wufei). I obtained my B.S. degree from Zhejiang University. I closely collaborate with Prof. [Xiaozhong Liu](https://www.wpi.edu/people/faculty/xliu14) from Worcester Polytechnic Institute and Prof. [Adam Jatowt](https://adammo12.github.io/aj/) from the University of Innsbruck.
 
 My research interests include LLM, NLP, LegalAI, and Causal Inference. I have published more than 10 papers in conferences such as ACL, EMNLP, NAACL, SIGIR, AAAI, KDD, and so on.
 
@@ -24,10 +24,7 @@ I am the main contributor to the open-source legal LLM project [wisdomInterrogat
 
 From 2023 to 2024, I am fortunate to be a visiting student at the University of Innsbruck, Austria. 
 
-After graduation, I'm lucky to be an assistant professor (ZJU-100 Young Professor) at Zhejiang University.
-
-Please feel free to [contact me](mailto:wuyiquan@zju.edu.cn) if you are interested in working with us.
-
+Please feel free to [contact me](mailto:wuyiquan@zju.edu.cn) if you are interested in working with me.
 
 # 🔥 News
 - *2024.05*: &nbsp;🎉🎉 **One** paper is accepted by KDD'24! 
@@ -119,8 +116,7 @@ The model can also be accessed [online](https://modelscope.cn/studios/wisdomOcea
 - ``2019`` 🥇🥇 First Place in both the Men's 100 meters and Javelin throw at the school sports meeting
 
 
-
 # 💻 Internships
-- *2018.11 - Present*, [Damo Academy](https://damo.alibaba.com/), Hangzhou.
+- *2018.11 - 2024.05*, [Damo Academy](https://damo.alibaba.com/), Hangzhou.
 
 - *2018.06 - 2018.10*, [YiWise](https://www.yiwise.com/), Hangzhou.
