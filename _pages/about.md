@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 Hello! I'm an assistant professor (ZJU-100 Young Professor) at Zhejiang University. I obtained my Ph.D. Degree at Zhejiang University, supervised by Prof. [Kun Kuang](https://kunkuang.github.io/) and Prof. [Fei Wu](https://mypage.zju.edu.cn/wufei). I obtained my B.S. degree from Zhejiang University. I closely collaborate with Prof. [Xiaozhong Liu](https://www.wpi.edu/people/faculty/xliu14) from Worcester Polytechnic Institute and Prof. [Adam Jatowt](https://adammo12.github.io/aj/) from the University of Innsbruck.
 
-My research interests include LLM, NLP, LegalAI, and Causal Inference. I have published more than 10 papers in conferences such as ACL, EMNLP, NAACL, SIGIR, AAAI, KDD, and so on.
+My research interests include LegalAI, Large Language Model, NLP, and Causal Inference. I have published more than 10 papers in conferences such as ACL, EMNLP, NAACL, SIGIR, AAAI, KDD, and so on.
 
 I am the main contributor to the open-source legal LLM project [wisdomInterrogatory](https://github.com/zhihaiLLM/wisdomInterrogatory), which led to an invitation to participate in the [Yunqi Conference](https://yunqi.aliyun.com/).
 
