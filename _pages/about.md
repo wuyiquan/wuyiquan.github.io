@@ -26,7 +26,7 @@ I am the lead contributor to the open-source legal LLM project [wisdomInterrogat
 
 From 2023 to 2024, I have the privilege of being a visiting student at the University of Innsbruck, Austria.
 
-If you are interested in collaborating, please feel free to [contact me](mailto:wuyiquan@zju.edu.cn).
+❗️We are currently seeking PhD students. If you are interested in applying or collaborating with me, please feel free to [contact me](mailto:wuyiquan@zju.edu.cn).
 
 # 🔥 News
 - *2024.05*: &nbsp;🎉🎉 **One** paper is accepted by KDD'24! 
