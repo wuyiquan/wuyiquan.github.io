@@ -50,7 +50,7 @@ The model can also be accessed [online](https://modelscope.cn/studios/wisdomOcea
 </div>
 </div>
 
-- ``KDD'24`` ["Xinyu: An Efficient LLM-based System for Commentary Generation"](), **Yiquan Wu**, Bo Tang, Chenyang Xi, Yu Yu, Pengyu Wang, Yifei Liu, Kun Kuang, Haiying Deng, Zhiyu li, Feiyu Xiong, Jie Hu, Cheng Peng, Zhonghao Wang, WangYi, Yi Luo, Mingchuan Yang
+- ``KDD'24 (oral)`` ["Xinyu: An Efficient LLM-based System for Commentary Generation"](), **Yiquan Wu**, Bo Tang, Chenyang Xi, Yu Yu, Pengyu Wang, Yifei Liu, Kun Kuang, Haiying Deng, Zhiyu li, Feiyu Xiong, Jie Hu, Cheng Peng, Zhonghao Wang, WangYi, Yi Luo, Mingchuan Yang
 
 - ``ACL'24-Findings`` ["Chain-of-Quizzes: Pedagogy-inspired Example Selection in In-Context-Learning"](), **Yiquan Wu**, Anlai Zhou, Yuhang Liu, Yifei Liu, Adam Jatowt, Weiming Lu, Jun Xiao, Kun Kuang
 
@@ -66,7 +66,7 @@ The model can also be accessed [online](https://modelscope.cn/studios/wisdomOcea
 
 - ``COLING'24`` ["From Graph to Word Bag: Introducing Domain Knowledge to Confusing Charge Prediction"](https://arxiv.org/pdf/2403.04369.pdf), Ang Li, Qiangchao Chen, **Yiquan Wu**, Xiang Zhou, Kun Kuang, Fei Wu and Ming Cai.
 
-- ``EMNLP'23(oral)`` ["Precedent-Enhanced Legal Judgment Prediction with LLM and Domain-Model Collaboration"](https://aclanthology.org/2023.emnlp-main.740/), **Yiquan Wu**, Siying Zhou, Yifei Liu, Weiming Lu, Xiaozhong Liu, Yating Zhang, Changlong Sun, Fei Wu, Kun Kuang. 
+- ``EMNLP'23 (oral)`` ["Precedent-Enhanced Legal Judgment Prediction with LLM and Domain-Model Collaboration"](https://aclanthology.org/2023.emnlp-main.740/), **Yiquan Wu**, Siying Zhou, Yifei Liu, Weiming Lu, Xiaozhong Liu, Yating Zhang, Changlong Sun, Fei Wu, Kun Kuang. 
 
 - ``ACL'23-Findings`` ["Focus-aware Response Generation in Inquiry Conversation"](https://aclanthology.org/2023.findings-acl.797.pdf), **Yiquan Wu**, Weiming Lu, Yating Zhang, Adam Jatowt, Jun Feng, Changlong Sun, Fei Wu, Kun Kuang.
 
