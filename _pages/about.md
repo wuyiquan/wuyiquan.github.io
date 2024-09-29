@@ -30,7 +30,7 @@ From 2023 to 2024, I have the privilege of being a visiting student at the Unive
 
 # 🔥 News
 
-- *2024.09*: &nbsp;🏆🥇 Our team won the **First Prize** in 6th China Graduate AI Innovation Competition! So proud of my students!
+- *2024.09*: &nbsp;🏆🥇 Our team win the **First Prize** in 6th China Graduate AI Innovation Competition!!
 - *2024.05*: &nbsp;🎉🎉 **One** paper is accepted by KDD'24! 
 - *2024.05*: &nbsp;🎉🎉 **Two** papers are accepted by ACL'24! 
 - *2024.03*: &nbsp;🎉🎉 **One** paper is accepted by NAACL'24! 
