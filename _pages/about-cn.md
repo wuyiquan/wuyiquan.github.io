@@ -1,6 +1,6 @@
 ---
-permalink: /
-title: ""
+permalink: /about-cn/
+title: "关于我"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -8,16 +8,8 @@ redirect_from:
   - /about-cn.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
-
-[英文版](about.md)您好！我是浙江大学的百人计划研究员。我在浙江大学攻读博士学位期间，由[况琨](https://kunkuang.github.io/)教授和[吴飞](https://mypage.zju.edu.cn/wufei)教授指导。在此之前，我也在浙江大学获得了我的学士学位。
+[English Version](about.md)您好！我是浙江大学的百人计划研究员。我在浙江大学攻读博士学位期间，由[况琨](https://kunkuang.github.io/)教授和[吴飞](https://mypage.zju.edu.cn/wufei)教授指导。在此之前，我也在浙江大学获得了我的学士学位。
 
 我也与伍斯特理工学院的[刘晓钟](https://www.wpi.edu/people/faculty/xliu14)教授和因斯布鲁克大学的[Adam Jatowt](https://adammo12.github.io/aj/)教授深度合作。
 
