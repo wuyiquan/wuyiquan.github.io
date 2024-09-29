@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-[Chinese Version](about-cn.md) Hello! I am an Assistant Professor (ZJU-100 Young Professor) at Zhejiang University. I received my Ph.D. from Zhejiang University under the supervision of Prof. [Kun Kuang](https://kunkuang.github.io/) and Prof. [Fei Wu](https://mypage.zju.edu.cn/wufei). I also earned my B.S. degree from Zhejiang University. 
+Hello! I am an Assistant Professor (ZJU-100 Young Professor, Doctoral Supervisor) at Zhejiang University. I received my Ph.D. from Zhejiang University under the supervision of Prof. [Kun Kuang](https://kunkuang.github.io/) and Prof. [Fei Wu](https://mypage.zju.edu.cn/wufei). I also earned my B.S. degree from Zhejiang University. 
 
 I actively collaborate with Prof. [Xiaozhong Liu](https://www.wpi.edu/people/faculty/xliu14) from Worcester Polytechnic Institute and Prof. [Adam Jatowt](https://adammo12.github.io/aj/) from the University of Innsbruck.
 
@@ -26,17 +26,14 @@ I am the lead contributor to the open-source legal LLM project [wisdomInterrogat
 
 From 2023 to 2024, I have the privilege of being a visiting student at the University of Innsbruck, Austria.
 
-❗️We are currently seeking PhD students. If you are interested in applying or collaborating with me, please feel free to [contact me](mailto:wuyiquan@zju.edu.cn).
+❗️We are currently seeking graduate students. If you are interested in applying or collaborating with me, please feel free to [contact me](mailto:wuyiquan@zju.edu.cn).
 
 # 🔥 News
+
+- *2024.09*: &nbsp;🏆🥇 Our team won the **First Prize** in 6th China Graduate AI Innovation Competition! So proud of my students!
 - *2024.05*: &nbsp;🎉🎉 **One** paper is accepted by KDD'24! 
 - *2024.05*: &nbsp;🎉🎉 **Two** papers are accepted by ACL'24! 
-- *2024.05*: &nbsp;🎉🎉 **One** paper is accepted by Knowledge-Based Systems! 
-- *2024.04*: &nbsp;🎉🎉 **One** paper is accepted by Knowledge-Based Systems! 
 - *2024.03*: &nbsp;🎉🎉 **One** paper is accepted by NAACL'24! 
-- *2024.02*: &nbsp;🎉🎉 **Two** papers are accepted by COLING'24! 
-- *2023.12*: &nbsp;🎉🎉 **One** paper is accepted by AAAI'24!
-- *2023.08*: &nbsp;🎉🎉 The open-sourced legal large language model [wisdomInterrogatory](https://github.com/zhihaiLLM/wisdomInterrogatory) is released!
 
 # 📝 Projects and Publications
 
@@ -82,7 +79,7 @@ The model can also be accessed [online](https://modelscope.cn/studios/wisdomOcea
 
 - ``EMNLP'20`` ["De-biased Court’s View Generation with Causality"](https://aclanthology.org/2020.emnlp-main.56/), **Yiquan Wu**, Kun Kuang, Yating Zhang, Xiaozhong Liu, Changlong Sun, Jun Xiao, Yueting Zhuang, Luo Si, Fei Wu.
 
-- ``SIGIR'20-Workshop`` ["Automatic Text Revision with Application to Legal Documents"](https://legalai2020.github.io/file/wuyiquan.pdf), **Yiquan Wu**, Kun Kuang, Fei Wu.
+<!-- - ``SIGIR'20-Workshop`` ["Automatic Text Revision with Application to Legal Documents"](https://legalai2020.github.io/file/wuyiquan.pdf), **Yiquan Wu**, Kun Kuang, Fei Wu. -->
 
 # 📖 Educations
 - *2019.09 - 2024.06*, Ph.D., Zhejiang University, Hangzhou, China.
@@ -91,7 +88,7 @@ The model can also be accessed [online](https://modelscope.cn/studios/wisdomOcea
 
 - *2015.09 - 2019.06*, Undergraduate, Computer Science, Zhejiang University, Hangzhou, China.
 
-- *2012.09 - 2015.06*, Yuyao High School, Ningbo, China.
+<!-- - *2012.09 - 2015.06*, Yuyao High School, Ningbo, China. -->
 
 # 🎖 Honors and Awards
 - ``2019`` Zhejiang Province Excellent Graduate (Top 3%) 
