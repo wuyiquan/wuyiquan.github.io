@@ -82,7 +82,7 @@ The model can also be accessed [online](https://modelscope.cn/studios/wisdomOcea
 <!-- - ``SIGIR'20-Workshop`` ["Automatic Text Revision with Application to Legal Documents"](https://legalai2020.github.io/file/wuyiquan.pdf), **Yiquan Wu**, Kun Kuang, Fei Wu. -->
 
 # 📖 Educations
-- *2019.09 - 2024.06*, Ph.D., Zhejiang University, Hangzhou, China.
+- *2019.09 - 2024.06*, Ph.D., Computer Science, Zhejiang University, Hangzhou, China.
 
 - *2023.12 - 2024.05*, Visiting student, University of Innsbruck, Innsbruck, Austria.
 
