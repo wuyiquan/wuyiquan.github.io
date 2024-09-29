@@ -3,9 +3,6 @@ permalink: /about-cn/
 title: "关于我"
 excerpt: ""
 author_profile: true
-redirect_from: 
-  - /about-cn/
-  - /about-cn.html
 ---
 
 <span class='anchor' id='about-me'></span>
