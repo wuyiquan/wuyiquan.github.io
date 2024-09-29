@@ -16,17 +16,18 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-[Chinese Version](about-cn.md) Hello! I am an Assistant Professor (ZJU-100 Young Professor) at Zhejiang University. I received my Ph.D. from Zhejiang University under the supervision of Prof. [Kun Kuang](https://kunkuang.github.io/) and Prof. [Fei Wu](https://mypage.zju.edu.cn/wufei). I also earned my B.S. degree from Zhejiang University. 
 
-I actively collaborate with Prof. [Xiaozhong Liu](https://www.wpi.edu/people/faculty/xliu14) from Worcester Polytechnic Institute and Prof. [Adam Jatowt](https://adammo12.github.io/aj/) from the University of Innsbruck.
+您好！我是浙江大学的百人计划研究员。我在浙江大学攻读博士学位期间，由[况琨](https://kunkuang.github.io/)教授和[吴飞](https://mypage.zju.edu.cn/wufei)教授指导。在此之前，我也在浙江大学获得了我的学士学位。
 
-My research interests encompass LegalAI, Large Language Models, Natural Language Processing, and Causal Inference. I have published over 10 papers in prestigious conferences such as ACL, EMNLP, NAACL, SIGIR, AAAI, and KDD.
+我也与伍斯特理工学院的[刘晓钟](https://www.wpi.edu/people/faculty/xliu14)教授和因斯布鲁克大学的[Adam Jatowt](https://adammo12.github.io/aj/)教授深度合作。
 
-I am the lead contributor to the open-source legal LLM project [wisdomInterrogatory](https://github.com/zhihaiLLM/wisdomInterrogatory), which earned me an invitation to participate in the [Yunqi Conference](https://yunqi.aliyun.com/).
+我的研究兴趣包括法律人工智能、大型语言模型、自然语言处理和因果推断。我在ACL、EMNLP、NAACL、SIGIR、AAAI和KDD等知名会议上发表了10多篇论文。
 
-From 2023 to 2024, I have the privilege of being a visiting student at the University of Innsbruck, Austria.
+我是开源法律语言模型项目[wisdomInterrogatory](https://github.com/zhihaiLLM/wisdomInterrogatory)的主要贡献者，这使我获得了参加[云栖大会](https://yunqi.aliyun.com/)的邀请。
 
-❗️We are currently seeking PhD students. If you are interested in applying or collaborating with me, please feel free to [contact me](mailto:wuyiquan@zju.edu.cn).
+从2023年到2024年，我有幸成为奥地利因斯布鲁克大学的访问学生。
+
+❗️我们目前正在寻找博士生。如果您有兴趣申请或与我合作，请随时[联系我](mailto:wuyiquan@zju.edu.cn)。
 
 # 🔥 News
 - *2024.05*: &nbsp;🎉🎉 **One** paper is accepted by KDD'24! 
