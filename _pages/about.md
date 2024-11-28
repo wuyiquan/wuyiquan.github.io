@@ -50,10 +50,12 @@ The model can also be accessed [online](https://modelscope.cn/studios/wisdomOcea
 
 - ``KDD'24 (oral)`` ["Xinyu: An Efficient LLM-based System for Commentary Generation"](https://arxiv.org/abs/2408.11609), **Yiquan Wu**, Bo Tang, Chenyang Xi, Yu Yu, Pengyu Wang, Yifei Liu, Kun Kuang, Haiying Deng, Zhiyu li, Feiyu Xiong, Jie Hu, Cheng Peng, Zhonghao Wang, WangYi, Yi Luo, Mingchuan Yang
 
-- ``ACL'24-Findings`` ["Chain-of-Quizzes: Pedagogy-inspired Example Selection in In-Context-Learning"](https://aclanthology.org/2024.findings-acl.603.pdf), **Yiquan Wu**, Anlai Zhou, Yuhang Liu, Yifei Liu, Adam Jatowt, Weiming Lu, Jun Xiao, Kun Kuang
+- ``ACL'24-Findings`` ["Chain-of-Quizzes: Pedagogy-inspired Example Selection in In-Context-Learning"](https://aclanthology.org/2023.findings-acl.797/), **Yiquan Wu**, Anlai Zhou, Yuhang Liu, Yifei Liu, Adam Jatowt, Weiming Lu, Jun Xiao, Kun Kuang
 
 - ``ACL'24-Findings`` ["Latent Learningscape Guided In-context Learning"](https://aclanthology.org/2024.findings-acl.482/), Anlai Zhou, Sunshine Jiang, Yifei Liu, **Yiquan Wu**, Kun Kuang, Jun Xiao
 
+- ``KBS`` ["Unlocking authentic judicial reasoning: A Template-Based Legal Information Generation framework for judicial views"](https://www.sciencedirect.com/science/article/abs/pii/S0950705124008669), Xiang Zhou, Yudong Wu, Ang Li, Ming Cai, **Yiquan Wu**, Kun Kuang.
+  
 - ``KBS`` ["DuaPIN: Auxiliary task enhanced dual path interaction network for civil court view generation"](https://www.sciencedirect.com/science/article/abs/pii/S0950705124003630), Nayu Liu, Luyao Ma, **Yiquan Wu**, Kaiwen Wei, Cunhang Fan, Yating Zhang.
   
 - ``AAAI'24`` ["De-biased Attention Supervision for Text Classification with Causality"](https://ojs.aaai.org/index.php/AAAI/article/view/29897), **Yiquan Wu**, Yifei Liu, Ziyu Zhao, Weiming Lu, Yating Zhang, Changlong Sun, Fei Wu, Kun Kuang. 
