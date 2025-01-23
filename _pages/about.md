@@ -29,13 +29,12 @@ From 2023 to 2024, I have the privilege of being a visiting student at the Unive
 ❗️We are currently seeking graduate students. If you are interested in applying or collaborating with me, please feel free to [contact me](mailto:wuyiquan@zju.edu.cn).
 
 # 🔥 News
-
+- *2025.01*: &nbsp;🎉🎉 **One** paper is accepted by NAACL'25! 
 - *2024.12*: &nbsp;🎉🎉 It is a great honor to be admitted to the Provincial Young Talent Support Program!
 - *2024.10*: &nbsp;🎉🎉 It is a great honor to be elected as an executive committee member of the CCF Computational Law Subcommittee!
 - *2024.09*: &nbsp;🏆🥇 Our team win the **First Prize** in 6th China Graduate AI Innovation Competition!!
 - *2024.05*: &nbsp;🎉🎉 **One** paper is accepted by KDD'24! 
 - *2024.05*: &nbsp;🎉🎉 **Two** papers are accepted by ACL'24! 
-- *2024.03*: &nbsp;🎉🎉 **One** paper is accepted by NAACL'24! 
 
 # 📝 Projects and Publications
 
@@ -49,9 +48,11 @@ The model can also be accessed [online](https://modelscope.cn/studios/wisdomOcea
 </div>
 </div>
 
+- ``NAACL'25`` ["Legal Judgment Prediction based on Knowledge-enhanced Multi-Task and Multi-Label Text Classification"](), Ang Li, **Yiquan Wu**, Ming Cai, Adam Jatowt, Xiang Zhou, Weiming Lu, Changlong Sun, Fei Wu, Kun Kuang
+
 - ``KDD'24 (oral)`` ["Xinyu: An Efficient LLM-based System for Commentary Generation"](https://arxiv.org/abs/2408.11609), **Yiquan Wu**, Bo Tang, Chenyang Xi, Yu Yu, Pengyu Wang, Yifei Liu, Kun Kuang, Haiying Deng, Zhiyu li, Feiyu Xiong, Jie Hu, Cheng Peng, Zhonghao Wang, WangYi, Yi Luo, Mingchuan Yang
 
-- ``ACL'24-Findings`` ["Chain-of-Quizzes: Pedagogy-inspired Example Selection in In-Context-Learning"](https://aclanthology.org/2023.findings-acl.797/), **Yiquan Wu**, Anlai Zhou, Yuhang Liu, Yifei Liu, Adam Jatowt, Weiming Lu, Jun Xiao, Kun Kuang
+- ``ACL'24-Findings`` ["Chain-of-Quizzes: Pedagogy-inspired Example Selection in In-Context-Learning"](https://aclanthology.org/2024.findings-acl.603/), **Yiquan Wu**, Anlai Zhou, Yuhang Liu, Yifei Liu, Adam Jatowt, Weiming Lu, Jun Xiao, Kun Kuang
 
 - ``ACL'24-Findings`` ["Latent Learningscape Guided In-context Learning"](https://aclanthology.org/2024.findings-acl.482/), Anlai Zhou, Sunshine Jiang, Yifei Liu, **Yiquan Wu**, Kun Kuang, Jun Xiao
 
@@ -94,14 +95,14 @@ The model can also be accessed [online](https://modelscope.cn/studios/wisdomOcea
 
 <!-- - *2012.09 - 2015.06*, Yuyao High School, Ningbo, China. -->
 
-# 🎖 Honors and Awards
-- ``2019`` Zhejiang Province Excellent Graduate (Top 3%) 
-- ``2023`` BOC Fundamental Subjects Scholarship (Top 1%)
-- ``2017,2022`` Sports and Arts Scholarship (Top 1%)
-- ``2016,2017,2018,2020,2021,2023`` Excellent Student of Zhejiang University (Top 8%) 
-- ``2016,2017,2018`` Academic Scholarship (Top 20%) 
 
-# 🏃 Sport Awards
+<!-- # 🎖 Honors and Awards -->
+<!-- - ``2019`` Zhejiang Province Excellent Graduate (Top 3%) -->
+<!-- - ``2023`` BOC Fundamental Subjects Scholarship (Top 1%) -->
+<!-- - ``2017,2022`` Sports and Arts Scholarship (Top 1%) -->
+<!-- - ``2016,2017,2018,2020,2021,2023`` Excellent Student of Zhejiang University (Top 8%)  -->
+
+# 🏃 Sport
 <div align="center">
 <img src='/images/basketball.png' alt="basketball" width="60%">
 </div>
@@ -110,18 +111,14 @@ The model can also be accessed [online](https://modelscope.cn/studios/wisdomOcea
 
 - ``2019 - 2024`` Captain of the Zhejiang University Men's Basketball Team.
 
-- ``2019, 2020, 2021`` Recognized as an Outstanding Athlete by the Chinese University Basketball Association (CUBA).
+- ``2019, 2020, 2021`` Outstanding Athlete of Chinese University Basketball Association (CUBA).
 
 - ``2021`` 🥈 Second Place in the Chinese University Basketball Association (CUBA).
 
-- ``2020`` 🥉 Third Place in the Chinese University Basketball Association (CUBA).
-
 - ``2016, 2018, 2019, 2020, 2022`` 🥇🥇🥇🥇🥇 First Place in the Zhejiang Province University Basketball Association (ZUBA).
 
-- ``2019`` 🥇🥇 First Place in both the Men's 100 meters and Javelin throw at the school sports meeting
+- ``2019`` 🥇🥇 First Place in both the Men's 100 meters and Javelin throw at the school sports meeting.
 
 
 # 💻 Internships
 - *2018.11 - 2024.05*, [Damo Academy](https://damo.alibaba.com/), Hangzhou.
-
-- *2018.06 - 2018.10*, [YiWise](https://www.yiwise.com/), Hangzhou.
