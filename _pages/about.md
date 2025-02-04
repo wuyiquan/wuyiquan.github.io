@@ -29,12 +29,11 @@ From 2023 to 2024, I have the privilege of being a visiting student at the Unive
 ❗️We are currently seeking graduate students. If you are interested in applying or collaborating with me, please feel free to [contact me](mailto:wuyiquan@zju.edu.cn).
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉🎉 **One** paper is accepted by WWW'25! 
 - *2025.01*: &nbsp;🎉🎉 **One** paper is accepted by NAACL'25! 
 - *2024.12*: &nbsp;🎉🎉 It is a great honor to be admitted to the Provincial Young Talent Support Program!
 - *2024.10*: &nbsp;🎉🎉 It is a great honor to be elected as an executive committee member of the CCF Computational Law Subcommittee!
 - *2024.09*: &nbsp;🏆🥇 Our team win the **First Prize** in 6th China Graduate AI Innovation Competition!!
-- *2024.05*: &nbsp;🎉🎉 **One** paper is accepted by KDD'24! 
-- *2024.05*: &nbsp;🎉🎉 **Two** papers are accepted by ACL'24! 
 
 # 📝 Projects and Publications
 
