@@ -47,7 +47,7 @@ The model can also be accessed [online](https://modelscope.cn/studios/wisdomOcea
 </div>
 </div>
 
-- ``WWW'25'' ["Intelligent Legal Assistant: An Interactive Clarification System for Legal Question Answering"](https://arxiv.org/abs/2502.07904), Rujing Yao, **Yiquan Wu**, Tong Zhang, Xuhui Zhang, Yuting Huang, Yang Wu, Jiayin Yang, Changlong Sun, Fang Wang, Xiaozhong Liu
+- ``WWW'25 (Demo)`` ["Intelligent Legal Assistant: An Interactive Clarification System for Legal Question Answering"](https://arxiv.org/abs/2502.07904), Rujing Yao, **Yiquan Wu**, Tong Zhang, Xuhui Zhang, Yuting Huang, Yang Wu, Jiayin Yang, Changlong Sun, Fang Wang, Xiaozhong Liu
 
 - ``NAACL'25`` ["Legal Judgment Prediction based on Knowledge-enhanced Multi-Task and Multi-Label Text Classification"](), Ang Li, **Yiquan Wu**\*, Ming Cai, Adam Jatowt, Xiang Zhou, Weiming Lu, Changlong Sun, Fei Wu, Kun Kuang
 
