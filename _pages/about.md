@@ -20,7 +20,7 @@ Hello! I am an Assistant Professor (ZJU-100 Young Professor, Doctoral Supervisor
 
 I actively collaborate with Prof. [Xiaozhong Liu](https://www.wpi.edu/people/faculty/xliu14) from Worcester Polytechnic Institute and Prof. [Adam Jatowt](https://adammo12.github.io/aj/) from the University of Innsbruck.
 
-My research interests encompass LegalAI, Large Language Models, Natural Language Processing, and Causal Inference. I have published over 10 papers in prestigious conferences such as ACL, EMNLP, NAACL, SIGIR, AAAI, and KDD.
+My research interests encompass LegalAI, Large Language Models, Natural Language Processing, and Causal Inference. I have published over 10 papers in prestigious conferences such as ACL, EMNLP, NAACL, SIGIR, AAAI, KDD, and WWW.
 
 I am the lead contributor to the open-source legal LLM project [wisdomInterrogatory](https://github.com/zhihaiLLM/wisdomInterrogatory), which earned me an invitation to participate in the [Yunqi Conference](https://yunqi.aliyun.com/).
 
