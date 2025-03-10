@@ -88,13 +88,13 @@ The model can also be accessed [online](https://modelscope.cn/studios/wisdomOcea
 
 <!-- - ``SIGIR'20-Workshop`` ["Automatic Text Revision with Application to Legal Documents"](https://legalai2020.github.io/file/wuyiquan.pdf), **Yiquan Wu**, Kun Kuang, Fei Wu. -->
 
-# Academic Reviewing & Service  
-- *Journal Reviewer*: Nature Communications, Computing Law, Information Processing and Management, Artificial Intelligence and Law
+# 📑 Academic Reviewing & Service  
+- Journal Reviewer: *Nature Communications, Computing Law, Information Processing and Management, Artificial Intelligence and Law*
   
-- *Conference Roles*:  
-  - *Area Chair*: ACL, EMNLP, NAACL  
-  - *Reviewer*: AAAI
-  - *Organization Committee*: ACL2025
+- Conference Roles:  
+  Area Chair: *ACL, EMNLP, NAACL*
+  Reviewer: *AAAI*
+  Organization Committee: *ACL2025*
 
 # 📖 Educations
 - *2019.09 - 2024.06*, Ph.D., Computer Science, Zhejiang University, Hangzhou, China.
