@@ -113,11 +113,11 @@ The model can also be accessed [online](https://modelscope.cn/studios/wisdomOcea
   *ACL2025*
 
 # 📖 Educations
-- *2019.09 - 2024.06*, Ph.D., Computer Science, Zhejiang University, Hangzhou, China.
+-  Ph.D., Computer Science, Zhejiang University, Hangzhou, China.
 
-- *2023.12 - 2024.05*, Visiting student, University of Innsbruck, Innsbruck, Austria.
+-  Visiting student, University of Innsbruck, Innsbruck, Austria.
 
-- *2015.09 - 2019.06*, Undergraduate, Computer Science, Zhejiang University, Hangzhou, China.
+-  Undergraduate, Computer Science, Zhejiang University, Hangzhou, China.
 
 <!-- - *2012.09 - 2015.06*, Yuyao High School, Ningbo, China. -->
 
