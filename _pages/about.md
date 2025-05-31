@@ -47,7 +47,7 @@ The model can also be accessed [online](https://modelscope.cn/studios/wisdomOcea
 </div>
 </div>
 
-- ``ACL'25`` ["UniLR: Unleashing the Power of LLMs on Multiple Legal Tasks with a Unified Legal Retriever"], Ang Li, **Yiquan Wu**\*, Yifei Liu, Ming Cai, Lizhi Qing, Shihang Wang, Yangyang Kang, Chengyuan Liu, Fei Wu, Kun Kuang
+- ``ACL'25`` ["UniLR: Unleashing the Power of LLMs on Multiple Legal Tasks with a Unified Legal Retriever"](), Ang Li, **Yiquan Wu**\*, Yifei Liu, Ming Cai, Lizhi Qing, Shihang Wang, Yangyang Kang, Chengyuan Liu, Fei Wu, Kun Kuang
 
 - ``ACL'25-Findings`` ["Rewrite to Jailbreak: Discover Learnable and Transferable Implicit Harmfulness Instruction"](), Yuting Huang, Chengyuan Liu, Yifeng Feng, **Yiquan Wu**, Chao Wu, Fei Wu, Kun Kuang
 
