@@ -47,9 +47,19 @@ The model can also be accessed [online](https://modelscope.cn/studios/wisdomOcea
 </div>
 </div>
 
+- ``ACL'25`` ["UniLR: Unleashing the Power of LLMs on Multiple Legal Tasks with a Unified Legal Retriever"], Ang Li, **Yiquan Wu**\*, Yifei Liu, Ming Cai, Lizhi Qing, Shihang Wang, Yangyang Kang, Chengyuan Liu, Fei Wu, Kun Kuang
+
+- ``ACL'25-Findings`` ["Rewrite to Jailbreak: Discover Learnable and Transferable Implicit Harmfulness Instruction"](), Yuting Huang, Chengyuan Liu, Yifeng Feng, **Yiquan Wu**, Chao Wu, Fei Wu, Kun Kuang
+
+- ``Artificial Intelligence and Law`` ["Specialized or General AI? A Comparative Evaluation of LLMs Performance in Legal Tasks"](https://link.springer.com/article/10.1007/s10506-025-09460-y), Xue Guo, Yuting Huang, Bin Wei, Kun Kuang, **Yiquan Wu**, Leilei Gan, Xianshan Huang, Xianglin Dong
+
+- ``ICAIL'25`` ["Deep Interaction Timing: FOL-based Complexity Differentiation for Legal Queries"](), Tong Zhang, **Yiquan Wu**\*, Rujing Yao, Qianyu Zhang, Changlong Sun, Chenghao Wang, Xiaozhong Liu 
+
+- ``ICAIL'25`` ["Universal Legal Article Prediction via Tight Collaboration between Supervised Classification Model and LLM"](), Xiao Chi, Wenlin Zhong, **Yiquan Wu**\*, Wei Wang, Kun Kuang, Fei Wu, Minghui Xiong
+
 - ``WWW'25 (Demo)`` ["Intelligent Legal Assistant: An Interactive Clarification System for Legal Question Answering"](https://arxiv.org/abs/2502.07904), Rujing Yao, **Yiquan Wu**, Tong Zhang, Xuhui Zhang, Yuting Huang, Yang Wu, Jiayin Yang, Changlong Sun, Fang Wang, Xiaozhong Liu
 
-- ``NAACL'25`` ["Legal Judgment Prediction based on Knowledge-enhanced Multi-Task and Multi-Label Text Classification"](), Ang Li, **Yiquan Wu**\*, Ming Cai, Adam Jatowt, Xiang Zhou, Weiming Lu, Changlong Sun, Fei Wu, Kun Kuang
+- ``NAACL'25`` ["Legal Judgment Prediction based on Knowledge-enhanced Multi-Task and Multi-Label Text Classification"](https://aclanthology.org/2025.naacl-long.355.pdf), Ang Li, **Yiquan Wu**\*, Ming Cai, Adam Jatowt, Xiang Zhou, Weiming Lu, Changlong Sun, Fei Wu, Kun Kuang
 
 - ``KDD'24 (oral)`` ["Xinyu: An Efficient LLM-based System for Commentary Generation"](https://arxiv.org/abs/2408.11609), **Yiquan Wu**, Bo Tang, Chenyang Xi, Yu Yu, Pengyu Wang, Yifei Liu, Kun Kuang, Haiying Deng, Zhiyu li, Feiyu Xiong, Jie Hu, Cheng Peng, Zhonghao Wang, WangYi, Yi Luo, Mingchuan Yang
 
