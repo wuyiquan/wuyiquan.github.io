@@ -104,9 +104,7 @@ The model can also be accessed [online](https://modelscope.cn/studios/wisdomOcea
   
 - Conference Roles:
   
-  Area Chair: *ACL, EMNLP, NAACL*
-  
-  Reviewer: *AAAI*
+  Area Chair: *ACL, EMNLP, NAACL*, Reviewer: *AAAI*
   
 - Organization Committee:
 
