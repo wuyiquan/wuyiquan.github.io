@@ -95,7 +95,7 @@ The model can also be accessed [online](https://modelscope.cn/studios/wisdomOcea
 
 <!-- - ``SIGIR'20-Workshop`` ["Automatic Text Revision with Application to Legal Documents"](https://legalai2020.github.io/file/wuyiquan.pdf), **Yiquan Wu**, Kun Kuang, Fei Wu. -->
 
-# 📑 Academic Reviewing & Service  
+# 📑 Academic Service  
 - Journal Reviewer:
 
   *Nature Communications, Computing Law, Information Processing and Management, Artificial Intelligence and Law*
