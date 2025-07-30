@@ -27,7 +27,9 @@ I am the lead contributor to the open-source legal LLM project [wisdomInterrogat
 ❗️We are currently seeking graduate students. If you are interested in applying or collaborating with me, please feel free to [contact me](mailto:wuyiquan@zju.edu.cn).
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 **Two** papers are accepted by ACL'25! 
+- *2025.07*: &nbsp;🎉🎉 **One** papers are accepted by Computer Law & Security Review! 
+- *2025.05*: &nbsp;🎉🎉 **Two** papers are accepted by ACL'25!
+- *2025.04*: &nbsp;🎉🎉 **One** papers are accepted by Artificial Intelligence and Law! 
 - *2025.04*: &nbsp;🎉🎉 **Two** papers are accepted by ICAIL'25! 
 - *2025.01*: &nbsp;🎉🎉 My doctoral dissertation was selected as an Outstanding Doctoral Dissertation of Zhejiang University! 
 - *2025.01*: &nbsp;🎉🎉 **One** paper is accepted by WWW'25! 
@@ -45,6 +47,8 @@ The model can also be accessed [online](https://modelscope.cn/studios/wisdomOcea
 </div>
 </div>
 
+- ``Computer Law & Security Review`` ["Enhancing charge prediction through the collaboration of large and small models"](https://www.sciencedirect.com/science/article/pii/S2212473X25000410?dgcid=author), Bin Wei, Yaoyao Yu, Jiawen Zhang, **Yiquan Wu**\*
+  
 - ``ACL'25`` ["UniLR: Unleashing the Power of LLMs on Multiple Legal Tasks with a Unified Legal Retriever"](), Ang Li, **Yiquan Wu**\*, Yifei Liu, Ming Cai, Lizhi Qing, Shihang Wang, Yangyang Kang, Chengyuan Liu, Fei Wu, Kun Kuang
 
 - ``ACL'25-Findings`` ["Rewrite to Jailbreak: Discover Learnable and Transferable Implicit Harmfulness Instruction"](), Yuting Huang, Chengyuan Liu, Yifeng Feng, **Yiquan Wu**, Chao Wu, Fei Wu, Kun Kuang
@@ -96,17 +100,15 @@ The model can also be accessed [online](https://modelscope.cn/studios/wisdomOcea
 <!-- - ``SIGIR'20-Workshop`` ["Automatic Text Revision with Application to Legal Documents"](https://legalai2020.github.io/file/wuyiquan.pdf), **Yiquan Wu**, Kun Kuang, Fei Wu. -->
 
 # 📑 Academic Service  
-- Journal Reviewer:
+- Reviewer:
 
-  *Nature Communications, Computing Law, Information Processing and Management, Artificial Intelligence and Law*
-  
-- Conference Roles:
-  
-  Area Chair: *ACL, EMNLP, NAACL*, Reviewer: *AAAI*
+  Journal: Reviewer: *Nature Communications, Computing Law, Information Processing and Management, Artificial Intelligence and Law*
+
+  Conference: Area Chair: *ACL, EMNLP, NAACL*, Program Committee: *AAAI*
   
 - Organization Committee:
 
-  *ACL2025*
+  *ACL2025*, *ChinaLLM2025*
 
 # 📖 Educations
 -  Ph.D., Computer Science, Zhejiang University, Hangzhou, China.
