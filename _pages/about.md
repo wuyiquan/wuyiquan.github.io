@@ -48,9 +48,9 @@ The model can also be accessed [online](https://modelscope.cn/studios/wisdomOcea
 </div>
 </div>
 
-- ``EMNLP'25`` ["CoEvo: Coevolution of LLM and Retrieval Model for Domain-Specific Information Retrieval"](), Ang Li, **Yiquan Wu**, Yinghao Hu, Lizhi Qing, Shihang Wang, Chengyuan Liu, Tao Wu, Adam Jatowt, Ming Cai, Fei Wu, Kun Kuang
+- ``EMNLP'25`` ["CoEvo: Coevolution of LLM and Retrieval Model for Domain-Specific Information Retrieval"](), Ang Li, **Yiquan Wu**\*, Yinghao Hu, Lizhi Qing, Shihang Wang, Chengyuan Liu, Tao Wu, Adam Jatowt, Ming Cai, Fei Wu, Kun Kuang
 
-- ``EMNLP'25-Findings`` ["ClaimGen-CN: A Large-scale Chinese Dataset for Legal Claim Generation"](), Siying Zhou, **Yiquan Wu**, Hui Chen, Xueyu Hu, Kun Kuang, Adam Jatowt, Chunyan Zheng, Fei Wu
+- ``EMNLP'25-Findings`` ["ClaimGen-CN: A Large-scale Chinese Dataset for Legal Claim Generation"](), Siying Zhou, **Yiquan Wu**\*, Hui Chen, Xueyu Hu, Kun Kuang, Adam Jatowt, Chunyan Zheng, Fei Wu
 
 - ``Computer Law & Security Review`` ["Enhancing charge prediction through the collaboration of large and small models"](https://www.sciencedirect.com/science/article/pii/S2212473X25000410?dgcid=author), Bin Wei, Yaoyao Yu, Jiawen Zhang, **Yiquan Wu**\*
   
