@@ -83,7 +83,7 @@ The model can also be accessed [online](https://modelscope.cn/studios/wisdomOcea
 
 - ``NAACL'24-Findings`` ["Unleashing the Power of LLMs in Court View Generation by Stimulating Internal Knowledge and Incorporating External Knowledge"](https://aclanthology.org/2024.findings-naacl.177.pdf), Yifei Liu, **Yiquan Wu\***, Ang Li, Yating Zhang, Changlong Sun, Weiming Lu, Fei Wu, Kun Kuang
 
-- ``COLING'24`` ["Enhancing Court View Generation with Knowledge Injection and Guidance"](https://arxiv.org/html/2403.04366v1), Ang Li, **Yiquan Wu**, Yifei Liu, Kun Kuang, Fei Wu, Ming Cai.
+- ``COLING'24`` ["Enhancing Court View Generation with Knowledge Injection and Guidance"](https://aclanthology.org/2024.lrec-main.522.pdf), Ang Li, **Yiquan Wu**, Yifei Liu, Kun Kuang, Fei Wu, Ming Cai.
 
 - ``COLING'24`` ["From Graph to Word Bag: Introducing Domain Knowledge to Confusing Charge Prediction"](http://www.lrec-conf.org/proceedings/lrec-coling-2024/pdf/2024.main-1.659.pdf), Ang Li, Qiangchao Chen, **Yiquan Wu**, Xiang Zhou, Kun Kuang, Fei Wu and Ming Cai.
 
