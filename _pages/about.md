@@ -49,9 +49,19 @@ The model can also be accessed [online](https://modelscope.cn/studios/wisdomOcea
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/luwen.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+[**wisdomInterrogatory**](https://github.com/zhihaiLLM/wisdomInterrogatory) \| [![](https://img.shields.io/github/stars/zhihaiLLM/wisdomInterrogatory?style=social&label=Stars)](https://github.com/zhihaiLLM/wisdomInterrogatory) (智海-录问 in Chinese) is an open-source Legal LLM that involves constructing training data, accelerating model training, integrating knowledge bases, and developing evaluation metrics. The model offers legal assistance services such as Q&A, case analysis, and legal document generation. It has garnered over 400 stars, more than 6,730 downloads, and over 110,000 uses. As the **project leader**, I was invited to participate in the [Yunqi Conference](https://yunqi.aliyun.com/).
+
+The model can also be accessed [online](https://modelscope.cn/studios/wisdomOcean/wisdomInterrogatory/summary).
+</div>
+</div>
+
 - ``EMNLP'25`` ["CoEvo: Coevolution of LLM and Retrieval Model for Domain-Specific Information Retrieval"](), Ang Li, **Yiquan Wu**\*, Yinghao Hu, Lizhi Qing, Shihang Wang, Chengyuan Liu, Tao Wu, Adam Jatowt, Ming Cai, Fei Wu, Kun Kuang
 
-- ``EMNLP'25-Findings`` ["ClaimGen-CN: A Large-scale Chinese Dataset for Legal Claim Generation"](), Siying Zhou, **Yiquan Wu**\*, Hui Chen, Xueyu Hu, Kun Kuang, Adam Jatowt, Chunyan Zheng, Fei Wu
+- ``EMNLP'25-Findings`` ["ClaimGen-CN: A Large-scale Chinese Dataset for Legal Claim Generation"](), Siying Zhou, **Yiquan Wu**, Hui Chen, Xueyu Hu, Kun Kuang, Adam Jatowt, Chunyan Zheng, Fei Wu
 
 - ``Computer Law & Security Review`` ["Enhancing charge prediction through the collaboration of large and small models"](https://www.sciencedirect.com/science/article/pii/S2212473X25000410?dgcid=author), Bin Wei, Yaoyao Yu, Jiawen Zhang, **Yiquan Wu**\*
   
@@ -114,7 +124,12 @@ The model can also be accessed [online](https://modelscope.cn/studios/wisdomOcea
   
 - Organization Committee:
 
-  *ACL2025*, *ChinaLLM2025*
+  [*ACL2025*](https://2025.aclweb.org/organization/), [*ChinaLLM2025*](https://www.itdks.com/Home/Act/apply?id=8346)
+
+- Talk:
+
+  [2025.09@HKU Faculty of Law](https://www.law.hku.hk/events/legalai-research-via-a-technological-perspective/)
+
 
 # 📖 Educations
 -  Ph.D., Computer Science, Zhejiang University, Hangzhou, China.
