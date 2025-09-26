@@ -119,7 +119,7 @@ The platform can be accessed [here](https://zjughls.jinriyuefa.com/login).
 
   Reviewer: *Nature Communications, Computing Law, Information Processing and Management, Artificial Intelligence and Law*
 
-  Area Chair: *ACL, EMNLP, NAACL*,
+  Area Chair: *ACL, EMNLP, NAACL*
   
   Program Committee: *AAAI*
   
@@ -129,8 +129,13 @@ The platform can be accessed [here](https://zjughls.jinriyuefa.com/login).
 
 - Talk:
 
-<img src='../images/hku_talk.png' alt="HKU Talk" width="30%">  
-[2025.09 @ HKU Faculty of Law](https://www.law.hku.hk/events/legalai-research-via-a-technological-perspective/)
+<div style="display: flex; align-items: center; gap: 15px;">
+  <img src="../images/hku_talk.png" alt="My Photo" width="25%">
+  <div>
+    <p>2025.09 @ HKU Faculty of Law [Link](https://www.law.hku.hk/events/legalai-research-via-a-technological-perspective/)</p>
+
+  </div>
+</div>
 
 
 
