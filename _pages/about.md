@@ -53,9 +53,10 @@ The model can also be accessed [online](https://modelscope.cn/studios/wisdomOcea
 <div class='paper-box-text' markdown="1">
 
 
-[**wisdomInterrogatory**](https://github.com/zhihaiLLM/wisdomInterrogatory) \| [![](https://img.shields.io/github/stars/zhihaiLLM/wisdomInterrogatory?style=social&label=Stars)](https://github.com/zhihaiLLM/wisdomInterrogatory) (智海-录问 in Chinese) is an open-source Legal LLM that involves constructing training data, accelerating model training, integrating knowledge bases, and developing evaluation metrics. The model offers legal assistance services such as Q&A, case analysis, and legal document generation. It has garnered over 400 stars, more than 6,730 downloads, and over 110,000 uses. As the **project leader**, I was invited to participate in the [Yunqi Conference](https://yunqi.aliyun.com/).
+[**ZJU LAW Agent Platform**](https://zjughls.jinriyuefa.com/login) is a digital legal education platform of Zhejiang University Guanghua Law School. It integrates legal knowledge bases, intelligent agents for teaching, research, and administration, aiming to build a domestically leading, internationally first-class system.
 
-The model can also be accessed [online](https://modelscope.cn/studios/wisdomOcean/wisdomInterrogatory/summary).
+The platform can be accessed [here](https://zjughls.jinriyuefa.com/login).
+
 </div>
 </div>
 
@@ -118,13 +119,15 @@ The model can also be accessed [online](https://modelscope.cn/studios/wisdomOcea
 # 📑 Academic Service  
 - Reviewer:
 
-  Journal: Reviewer: *Nature Communications, Computing Law, Information Processing and Management, Artificial Intelligence and Law*
+  Reviewer: *Nature Communications, Computing Law, Information Processing and Management, Artificial Intelligence and Law*,
 
-  Conference: Area Chair: *ACL, EMNLP, NAACL*, Program Committee: *AAAI*
+  Area Chair: *ACL, EMNLP, NAACL*, 
+  
+  Program Committee: *AAAI*
   
 - Organization Committee:
 
-  [*ACL2025*](https://2025.aclweb.org/organization/), [*ChinaLLM2025*](https://www.itdks.com/Home/Act/apply?id=8346)
+  [ACL2025](https://2025.aclweb.org/organization/), [ChinaLLM2025](https://www.itdks.com/Home/Act/apply?id=8346)
 
 - Talk:
 
