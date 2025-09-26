@@ -27,6 +27,7 @@ I am the lead contributor to the open-source legal LLM project [wisdomInterrogat
 ❗️We are currently seeking graduate students. If you are interested in applying or collaborating with me, please feel free to [contact me](mailto:wuyiquan@zju.edu.cn).
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 Happy to give a talk at HKU! 
 - *2025.08*: &nbsp;🎉🎉 **Two** papers are accepted by EMNLP'25! 
 - *2025.07*: &nbsp;🎉🎉 **One** paper is accepted by Computer Law & Security Review! 
 - *2025.05*: &nbsp;🎉🎉 **Two** papers are accepted by ACL'25!
@@ -84,7 +85,7 @@ The model can also be accessed [online](https://modelscope.cn/studios/wisdomOcea
 
 - ``COLING'24`` ["Enhancing Court View Generation with Knowledge Injection and Guidance"](https://arxiv.org/html/2403.04366v1), Ang Li, **Yiquan Wu**, Yifei Liu, Kun Kuang, Fei Wu, Ming Cai.
 
-- ``COLING'24`` ["From Graph to Word Bag: Introducing Domain Knowledge to Confusing Charge Prediction"](https://arxiv.org/pdf/2403.04369.pdf), Ang Li, Qiangchao Chen, **Yiquan Wu**, Xiang Zhou, Kun Kuang, Fei Wu and Ming Cai.
+- ``COLING'24`` ["From Graph to Word Bag: Introducing Domain Knowledge to Confusing Charge Prediction"](http://www.lrec-conf.org/proceedings/lrec-coling-2024/pdf/2024.main-1.659.pdf), Ang Li, Qiangchao Chen, **Yiquan Wu**, Xiang Zhou, Kun Kuang, Fei Wu and Ming Cai.
 
 - ``EMNLP'23 (oral)`` ["Precedent-Enhanced Legal Judgment Prediction with LLM and Domain-Model Collaboration"](https://aclanthology.org/2023.emnlp-main.740/), **Yiquan Wu**, Siying Zhou, Yifei Liu, Weiming Lu, Xiaozhong Liu, Yating Zhang, Changlong Sun, Fei Wu, Kun Kuang. 
 
