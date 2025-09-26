@@ -129,7 +129,7 @@ The platform can be accessed [here](https://zjughls.jinriyuefa.com/login).
 
 - Talk:
 
-<img src='../images/hku_talk.jpg' alt="HKU Talk" width="30%">  
+<img src='../images/hku_talk.png' alt="HKU Talk" width="30%">  
 [2025.09 @ HKU Faculty of Law](https://www.law.hku.hk/events/legalai-research-via-a-technological-perspective/)
 
 
