@@ -20,22 +20,20 @@ Hello! I am an Assistant Professor (ZJU-100 Young Professor, Doctoral Supervisor
 
 I actively collaborate with Prof. [Xiaozhong Liu](https://www.wpi.edu/people/faculty/xliu14) from Worcester Polytechnic Institute and Prof. [Adam Jatowt](https://adammo12.github.io/aj/) from the University of Innsbruck.
 
-My research interests encompass LegalAI, Large Language Models, Natural Language Processing, and Causal Inference. I have published over 20 papers in prestigious conferences and journals such as ACL, EMNLP, NAACL, SIGIR, AAAI, KDD, and WWW.
+My research interests encompass LegalAI, Large Language Models and Natural Language Processing. I have published over 20 papers in prestigious conferences and journals such as ACL, EMNLP, NAACL, SIGIR, AAAI, KDD, AI&Law and WWW.
 
 I am the lead contributor to the open-source legal LLM project [wisdomInterrogatory](https://github.com/zhihaiLLM/wisdomInterrogatory), which earned me an invitation to participate in the [Yunqi Conference](https://yunqi.aliyun.com/).
 
-❗️We are currently seeking graduate students. If you are interested in applying or collaborating with me, please feel free to [contact me](mailto:wuyiquan@zju.edu.cn).
+❗️I'm currently seeking graduate students. If you are interested in applying or collaborating with me, please feel free to [contact me](mailto:wuyiquan@zju.edu.cn).
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 Happy to give a talk at HKU! 
+- *2025.09*: &nbsp;🎉🎉 Honored to deliver a talk at the Faculty of Law, HKU!
 - *2025.08*: &nbsp;🎉🎉 **Two** papers are accepted by EMNLP'25! 
 - *2025.07*: &nbsp;🎉🎉 **One** paper is accepted by Computer Law & Security Review! 
 - *2025.05*: &nbsp;🎉🎉 **Two** papers are accepted by ACL'25!
 - *2025.04*: &nbsp;🎉🎉 **One** papers are accepted by Artificial Intelligence and Law! 
 - *2025.04*: &nbsp;🎉🎉 **Two** papers are accepted by ICAIL'25! 
 - *2025.01*: &nbsp;🎉🎉 My doctoral dissertation was selected as an Outstanding Doctoral Dissertation of Zhejiang University! 
-- *2025.01*: &nbsp;🎉🎉 **One** paper is accepted by WWW'25! 
-- *2025.01*: &nbsp;🎉🎉 **One** paper is accepted by NAACL'25! 
 
 # 📝 Projects and Publications
 
@@ -119,9 +117,9 @@ The platform can be accessed [here](https://zjughls.jinriyuefa.com/login).
 # 📑 Academic Service  
 - Reviewer:
 
-  Reviewer: *Nature Communications, Computing Law, Information Processing and Management, Artificial Intelligence and Law*,
+  Reviewer: *Nature Communications, Computing Law, Information Processing and Management, Artificial Intelligence and Law*
 
-  Area Chair: *ACL, EMNLP, NAACL*, 
+  Area Chair: *ACL, EMNLP, NAACL*,
   
   Program Committee: *AAAI*
   
@@ -131,7 +129,9 @@ The platform can be accessed [here](https://zjughls.jinriyuefa.com/login).
 
 - Talk:
 
-  [2025.09@HKU Faculty of Law](https://www.law.hku.hk/events/legalai-research-via-a-technological-perspective/)
+<img src='../images/hku_talk.jpg' alt="HKU Talk" width="30%">  
+[2025.09 @ HKU Faculty of Law](https://www.law.hku.hk/events/legalai-research-via-a-technological-perspective/)
+
 
 
 # 📖 Educations
@@ -139,7 +139,7 @@ The platform can be accessed [here](https://zjughls.jinriyuefa.com/login).
 
 -  Visiting student, University of Innsbruck, Innsbruck, Austria.
 
--  Undergraduate, Computer Science, Zhejiang University, Hangzhou, China.
+-  Bachelor, Computer Science, Zhejiang University, Hangzhou, China.
 
 <!-- - *2012.09 - 2015.06*, Yuyao High School, Ningbo, China. -->
 
@@ -169,4 +169,4 @@ The platform can be accessed [here](https://zjughls.jinriyuefa.com/login).
 
 
 # 💻 Internships
-- *2018.11 - 2024.05*, [Damo Academy](https://damo.alibaba.com/), Hangzhou.
+- *2018.11 - 2024.05*, [Damo Academy(Tongyi Lab)](https://damo.alibaba.com/), Hangzhou.
