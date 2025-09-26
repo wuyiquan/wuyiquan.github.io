@@ -130,12 +130,13 @@ The platform can be accessed [here](https://zjughls.jinriyuefa.com/login).
 - Talk:
 
 <div style="display: flex; align-items: center; gap: 15px;">
-  <img src="../images/hku_talk.png" alt="My Photo" width="25%">
-  <div>
-    <p>2025.09 @ HKU Faculty of Law [Link](https://www.law.hku.hk/events/legalai-research-via-a-technological-perspective/)</p>
+  <img src="../images/hku_talk.png" alt="HKU Talk" width="25%">
+    <p>  2025.09 @ HKU Faculty of Law <a href="https://www.law.hku.hk/events/legalai-research-via-a-technological-perspective/">[Link]</a></p>
 
-  </div>
 </div>
+
+  
+
 
 
 
