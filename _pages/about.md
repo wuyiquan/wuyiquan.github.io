@@ -117,11 +117,11 @@ The platform can be accessed [here](https://zjughls.jinriyuefa.com/login).
 # 📑 Academic Service  
 - Reviewer:
 
-  Reviewer: *Nature Communications, Computing Law, Information Processing and Management, Artificial Intelligence and Law*
+  Reviewer: Nature Communications, Computing Law, Information Processing and Management, Artificial Intelligence and Law
 
-  Area Chair: *ACL, EMNLP, NAACL*
+  Area Chair: ACL, EMNLP, NAACL
   
-  Program Committee: *AAAI*
+  Program Committee: AAAI
   
 - Organization Committee:
 
