@@ -27,6 +27,7 @@ I am the lead contributor to the open-source legal LLM project [wisdomInterrogat
 ❗️I'm currently seeking graduate students. If you are interested in applying or collaborating with me, please feel free to [contact me](mailto:wuyiquan@zju.edu.cn).
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 **Two** papers are accepted by AAAI'25! 
 - *2025.09*: &nbsp;🎉🎉 Honored to deliver a talk at the Faculty of Law, HKU!
 - *2025.08*: &nbsp;🎉🎉 **Two** papers are accepted by EMNLP'25! 
 - *2025.07*: &nbsp;🎉🎉 **One** paper is accepted by Computer Law & Security Review! 
