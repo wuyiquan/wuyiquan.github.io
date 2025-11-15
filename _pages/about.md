@@ -59,9 +59,14 @@ The platform can be accessed [here](https://zjughls.jinriyuefa.com/login).
 </div>
 </div>
 
-- ``EMNLP'25`` ["CoEvo: Coevolution of LLM and Retrieval Model for Domain-Specific Information Retrieval"](), Ang Li, **Yiquan Wu**\*, Yinghao Hu, Lizhi Qing, Shihang Wang, Chengyuan Liu, Tao Wu, Adam Jatowt, Ming Cai, Fei Wu, Kun Kuang
 
-- ``EMNLP'25-Findings`` ["ClaimGen-CN: A Large-scale Chinese Dataset for Legal Claim Generation"](), Siying Zhou, **Yiquan Wu**, Hui Chen, Xueyu Hu, Kun Kuang, Adam Jatowt, Chunyan Zheng, Fei Wu
+- ``AAAI'26 (oral)`` ["CoEvo: Coevolution of LLM and Retrieval Model for Domain-Specific Information Retrieval"](), Ang Li, Yufei Shi, Yuxuan Si, **Yiquan Wu**\*, Ming Cai, Xu Tan, Yi Wang, Changlong Sun, Xiaozhong Liu, Kun Kuang
+
+- ``AAAI'26`` ["P2S: Probabilistic Process Supervision for General-Domain Reasoning Question Answering"](), Wenlin Zhong, Chengyuan Liu, **Yiquan Wu**\*, Bovin Tan, Changlong Sun, Yi Wang, Xiaozhong Liu, Kun Kuang
+
+- ``EMNLP'25`` ["CoEvo: Coevolution of LLM and Retrieval Model for Domain-Specific Information Retrieval"](https://aclanthology.org/2025.emnlp-main.757/), Ang Li, **Yiquan Wu**\*, Yinghao Hu, Lizhi Qing, Shihang Wang, Chengyuan Liu, Tao Wu, Adam Jatowt, Ming Cai, Fei Wu, Kun Kuang
+
+- ``EMNLP'25-Findings`` ["ClaimGen-CN: A Large-scale Chinese Dataset for Legal Claim Generation"](https://aclanthology.org/2025.findings-emnlp.658/), Siying Zhou, **Yiquan Wu**, Hui Chen, Xueyu Hu, Kun Kuang, Adam Jatowt, Chunyan Zheng, Fei Wu
 
 - ``Computer Law & Security Review`` ["Enhancing charge prediction through the collaboration of large and small models"](https://www.sciencedirect.com/science/article/pii/S2212473X25000410?dgcid=author), Bin Wei, Yaoyao Yu, Jiawen Zhang, **Yiquan Wu**\*
   
@@ -75,7 +80,7 @@ The platform can be accessed [here](https://zjughls.jinriyuefa.com/login).
 
 - ``ICAIL'25`` ["Universal Legal Article Prediction via Tight Collaboration between Supervised Classification Model and LLM"](), Xiao Chi, Wenlin Zhong, **Yiquan Wu**\*, Wei Wang, Kun Kuang, Fei Wu, Minghui Xiong
 
-- ``WWW'25 (Demo)`` ["Intelligent Legal Assistant: An Interactive Clarification System for Legal Question Answering"](https://arxiv.org/abs/2502.07904), Rujing Yao, **Yiquan Wu**, Tong Zhang, Xuhui Zhang, Yuting Huang, Yang Wu, Jiayin Yang, Changlong Sun, Fang Wang, Xiaozhong Liu
+- ``WWW'25 (demo)`` ["Intelligent Legal Assistant: An Interactive Clarification System for Legal Question Answering"](https://arxiv.org/abs/2502.07904), Rujing Yao, **Yiquan Wu**, Tong Zhang, Xuhui Zhang, Yuting Huang, Yang Wu, Jiayin Yang, Changlong Sun, Fang Wang, Xiaozhong Liu
 
 - ``NAACL'25`` ["Legal Judgment Prediction based on Knowledge-enhanced Multi-Task and Multi-Label Text Classification"](https://aclanthology.org/2025.naacl-long.355.pdf), Ang Li, **Yiquan Wu**\*, Ming Cai, Adam Jatowt, Xiang Zhou, Weiming Lu, Changlong Sun, Fei Wu, Kun Kuang
 
