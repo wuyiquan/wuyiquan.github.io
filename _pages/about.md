@@ -60,7 +60,7 @@ The platform can be accessed [here](https://zjughls.jinriyuefa.com/login).
 </div>
 
 
-- ``AAAI'26 (oral)`` ["CoEvo: Coevolution of LLM and Retrieval Model for Domain-Specific Information Retrieval"](), Ang Li, Yufei Shi, Yuxuan Si, **Yiquan Wu**\*, Ming Cai, Xu Tan, Yi Wang, Changlong Sun, Xiaozhong Liu, Kun Kuang
+- ``AAAI'26 (oral)`` ["Think Then Rewrite: Reasoning Enhanced Query Rewriting for Domain Specific Retrieval"](), Ang Li, Yufei Shi, Yuxuan Si, **Yiquan Wu**\*, Ming Cai, Xu Tan, Yi Wang, Changlong Sun, Xiaozhong Liu, Kun Kuang
 
 - ``AAAI'26`` ["P2S: Probabilistic Process Supervision for General-Domain Reasoning Question Answering"](), Wenlin Zhong, Chengyuan Liu, **Yiquan Wu**\*, Bovin Tan, Changlong Sun, Yi Wang, Xiaozhong Liu, Kun Kuang
 
