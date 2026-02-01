@@ -27,7 +27,9 @@ I am the lead contributor to the open-source legal LLM project [wisdomInterrogat
 ❗️I'm currently seeking graduate students. If you are interested in applying or collaborating with me, please feel free to [contact me](mailto:wuyiquan@zju.edu.cn).
 
 # 🔥 News
-- *2025.11*: &nbsp;🎉🎉 **Two** papers are accepted by AAAI'25! 
+- *2026.01*: &nbsp;🎉🎉 **One** paper is accepted by AI Review (IF=13.9)! 
+- *2026.01*: &nbsp;🎉🎉 We successfully organized the AILaw Bridge (Bridge between Artificial Intelligence and Law) at AAAI 2026!  
+- *2025.11*: &nbsp;🎉🎉 **Two** papers are accepted by AAAI'26! 
 - *2025.09*: &nbsp;🎉🎉 Honored to deliver a talk at the Faculty of Law, HKU!
 - *2025.08*: &nbsp;🎉🎉 **Two** papers are accepted by EMNLP'25! 
 - *2025.07*: &nbsp;🎉🎉 **One** paper is accepted by Computer Law & Security Review! 
@@ -59,6 +61,7 @@ The platform can be accessed [here](https://zjughls.jinriyuefa.com/login).
 </div>
 </div>
 
+- ``Artificial Intelligence Review`` ["LegalAI Research in LLM Era: Data, Modeling and Evaluation"](), Xiao Chi, Wei Wang, Ziyao Zhang, Ang Li, Yuting Huang, **Yiquan Wu**\*, Kun Kuang, Changlong Sun, Xiaozhong Liu, Fei Wu, Minghui Xiong
 
 - ``AAAI'26 (oral)`` ["Think Then Rewrite: Reasoning Enhanced Query Rewriting for Domain Specific Retrieval"](), Ang Li, Yufei Shi, Yuxuan Si, **Yiquan Wu**\*, Ming Cai, Xu Tan, Yi Wang, Changlong Sun, Xiaozhong Liu, Kun Kuang
 
@@ -131,7 +134,7 @@ The platform can be accessed [here](https://zjughls.jinriyuefa.com/login).
   
 - Organization Committee:
 
-  [ACL2025](https://2025.aclweb.org/organization/), [ChinaLLM2025](https://www.itdks.com/Home/Act/apply?id=8346)
+  [Internal Communication Chairs, ACL2025](https://2025.aclweb.org/organization/), [Forum Chair, ChinaLLM2025](https://www.itdks.com/Home/Act/apply?id=8346), [Committee, AILaw@AAAI26](https://bridge-ai-law.github.io/)
 
 - Talk:
 
