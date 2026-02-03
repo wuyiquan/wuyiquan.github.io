@@ -34,7 +34,7 @@ I am the lead contributor to the open-source legal LLM project [wisdomInterrogat
 - *2025.08*: &nbsp;🎉🎉 **Two** papers are accepted by EMNLP'25! 
 - *2025.07*: &nbsp;🎉🎉 **One** paper is accepted by Computer Law & Security Review! 
 - *2025.05*: &nbsp;🎉🎉 **Two** papers are accepted by ACL'25!
-- *2025.04*: &nbsp;🎉🎉 **One** papers are accepted by Artificial Intelligence and Law! 
+- *2025.04*: &nbsp;🎉🎉 **One** paper is accepted by Artificial Intelligence and Law! 
 - *2025.04*: &nbsp;🎉🎉 **Two** papers are accepted by ICAIL'25! 
 - *2025.01*: &nbsp;🎉🎉 My doctoral dissertation was selected as an Outstanding Doctoral Dissertation of Zhejiang University! 
 
