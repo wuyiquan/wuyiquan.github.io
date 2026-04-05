@@ -61,11 +61,11 @@ The platform can be accessed [here](https://zjughls.jinriyuefa.com/login).
 </div>
 </div>
 
-- ``Artificial Intelligence Review`` ["LegalAI Research in LLM Era: Data, Modeling and Evaluation"](), Xiao Chi, Wei Wang, Ziyao Zhang, Ang Li, Yuting Huang, **Yiquan Wu**\*, Kun Kuang, Changlong Sun, Xiaozhong Liu, Fei Wu, Minghui Xiong
+- ``Artificial Intelligence Review`` ["LegalAI Research in LLM Era: Data, Modeling and Evaluation"](https://link.springer.com/article/10.1007/s10462-026-11514-9), Xiao Chi, Wei Wang, Ziyao Zhang, Ang Li, Yuting Huang, **Yiquan Wu**\*, Kun Kuang, Changlong Sun, Xiaozhong Liu, Fei Wu, Minghui Xiong
 
-- ``AAAI'26 (oral)`` ["Think Then Rewrite: Reasoning Enhanced Query Rewriting for Domain Specific Retrieval"](), Ang Li, Yufei Shi, Yuxuan Si, **Yiquan Wu**\*, Ming Cai, Xu Tan, Yi Wang, Changlong Sun, Xiaozhong Liu, Kun Kuang
+- ``AAAI'26 (oral)`` ["Think Then Rewrite: Reasoning Enhanced Query Rewriting for Domain Specific Retrieval"](https://ojs.aaai.org/index.php/AAAI/article/view/38527), Ang Li, Yufei Shi, Yuxuan Si, **Yiquan Wu**\*, Ming Cai, Xu Tan, Yi Wang, Changlong Sun, Xiaozhong Liu, Kun Kuang
 
-- ``AAAI'26`` ["P2S: Probabilistic Process Supervision for General-Domain Reasoning Question Answering"](), Wenlin Zhong, Chengyuan Liu, **Yiquan Wu**\*, Bovin Tan, Changlong Sun, Yi Wang, Xiaozhong Liu, Kun Kuang
+- ``AAAI'26`` ["P2S: Probabilistic Process Supervision for General-Domain Reasoning Question Answering"](https://arxiv.org/abs/2601.20649), Wenlin Zhong, Chengyuan Liu, **Yiquan Wu**\*, Bovin Tan, Changlong Sun, Yi Wang, Xiaozhong Liu, Kun Kuang
 
 - ``EMNLP'25`` ["CoEvo: Coevolution of LLM and Retrieval Model for Domain-Specific Information Retrieval"](https://aclanthology.org/2025.emnlp-main.757/), Ang Li, **Yiquan Wu**\*, Yinghao Hu, Lizhi Qing, Shihang Wang, Chengyuan Liu, Tao Wu, Adam Jatowt, Ming Cai, Fei Wu, Kun Kuang
 
