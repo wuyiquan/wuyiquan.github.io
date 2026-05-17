@@ -27,7 +27,8 @@ I am the lead contributor to the open-source legal LLM project [wisdomInterrogat
 ❗️I'm currently seeking graduate students. If you are interested in applying or collaborating with me, please feel free to [contact me](mailto:wuyiquan@zju.edu.cn).
 
 # 🔥 News
-- *2026.04*: &nbsp;🎉🎉 **Three** papers are accepted by ACL'25!
+- *2026.05*: &nbsp;🎉🎉 **One** paper is accepted by KDD'25!
+- *2026.04*: &nbsp;🎉🎉 **Three** papers are accepted by ACL'26!
 - *2026.04*: &nbsp;🎉🎉 **One** paper is accepted by ICAIL'26! 
 - *2026.01*: &nbsp;🎉🎉 **One** paper is accepted by AI Review (IF=13.9)! 
 - *2026.01*: &nbsp;🎉🎉 We successfully organized the AILaw Bridge (Bridge between Artificial Intelligence and Law) at AAAI 2026!  
@@ -63,6 +64,16 @@ The platform can be accessed [here](https://zjughls.jinriyuefa.com/login).
 </div>
 </div>
 
+- ``KDD'26`` ["GraTAG: Production AI Search via Graph-Based Query Decomposition and Triplet Aligned Generation with Rich Multimodal Representations"](), Bo Tang, Junyi Zhu, Ang Li, **Yiquan Wu**, Kun Kuang, Beihong Jin, Jiahao Wu, Hao Wang, Chenyang Xi, Yuchen Feng, Wenqiang Wei, Chunyu Li, Zehao Lin, Zhiyu Li, Feiyu Xiong, Beibei Li, Kaiwen Wei, Jingrun Chen
+  
+- ``ACL'26-Findings`` ["‘I Don't Know What to Say’: A Fact-Filling Questionnaire Method to Help Non-Experts Talk to LegalAI Assistant"](), Yuting Huang, **Yiquan Wu**\*, Meitong Guo, Ang Li, Xiaozhong Liu, Keting Yin, Fei Wu, Kun Kuang
+
+- ``ACL'26-Findings`` __["SplitThenMerge: Token-Level Skill-Compositional Sparse Mixture-of-Experts for Complex Domain-Specific Tasks"](), Yuting Huang, Jiawen Zhang, **Yiquan Wu**\*, Yinghao Hu, Fei Wu, Kun Kuang
+  
+- ``ACL'26`` ["SAFO: Stable Adaptive Fairness Optimization for LLM-Based Social Survey Simulation"](), Chenxi Lin, Zhuoren Jiang, Kaisong Song, **Yiquan Wu**
+  
+- ``ICAIL'26`` ["Retrieval, Discrimination, and Execution: A Synergistic LLM Framework for Legal Mathematical Reasoning Task"](), Jiawen Zhang, Bowen Tan, Yuting Huang, Xiao Chi, Bin Wei, Minghui Xiong, **Yiquan Wu**\*
+  
 - ``Artificial Intelligence Review`` ["LegalAI Research in LLM Era: Data, Modeling and Evaluation"](https://link.springer.com/article/10.1007/s10462-026-11514-9), Xiao Chi, Wei Wang, Ziyao Zhang, Ang Li, Yuting Huang, **Yiquan Wu**\*, Kun Kuang, Changlong Sun, Xiaozhong Liu, Fei Wu, Minghui Xiong
 
 - ``AAAI'26 (oral)`` ["Think Then Rewrite: Reasoning Enhanced Query Rewriting for Domain Specific Retrieval"](https://ojs.aaai.org/index.php/AAAI/article/view/38527), Ang Li, Yufei Shi, Yuxuan Si, **Yiquan Wu**\*, Ming Cai, Xu Tan, Yi Wang, Changlong Sun, Xiaozhong Liu, Kun Kuang
