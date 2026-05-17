@@ -187,11 +187,15 @@ The platform can be accessed [here](https://zjughls.jinriyuefa.com/login).
 
 - ``2019 - 2024`` Captain of the Zhejiang University Men's Basketball Team.
 
-- ``2019, 2020, 2021`` Outstanding Athlete of Chinese University Basketball Association (CUBA).
+- ``2024 - Present`` Assistant Coach of the Zhejiang University Men's Basketball Team.
 
-- ``2021`` 🥈 Second Place in the Chinese University Basketball Association (CUBA).
+- ``2019, 2020, 2021`` Outstanding Athlete of Chinese University Basketball Association League (CUBAL).
 
-- ``2016, 2018, 2019, 2020, 2022`` 🥇🥇🥇🥇🥇 First Place in the Zhejiang Province University Basketball Association (ZUBA).
+- ``2021`` 🥈 Second Place in the Chinese University Basketball Association (CUBAL).
+
+- ``2020`` 🥉 Third Place in the Chinese University Basketball Association (CUBAL).
+
+- ``2016, 2018, 2019, 2020, 2022, 2025`` 🥇🥇🥇🥇🥇 First Place in the Zhejiang Province University Basketball Association (ZUBA).
 
 - ``2019`` 🥇🥇 First Place in both the Men's 100 meters and Javelin throw at the school sports meeting.
 
