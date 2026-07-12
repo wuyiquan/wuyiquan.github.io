@@ -66,11 +66,11 @@ The platform can be accessed [here](https://zjughls.jinriyuefa.com/login).
 
 - ``KDD'26`` ["GraTAG: Production AI Search via Graph-Based Query Decomposition and Triplet Aligned Generation with Rich Multimodal Representations"](), Bo Tang, Junyi Zhu, Ang Li, **Yiquan Wu**, Kun Kuang, Beihong Jin, Jiahao Wu, Hao Wang, Chenyang Xi, Yuchen Feng, Wenqiang Wei, Chunyu Li, Zehao Lin, Zhiyu Li, Feiyu Xiong, Beibei Li, Kaiwen Wei, Jingrun Chen
   
-- ``ACL'26-Findings`` ["‘I Don't Know What to Say’: A Fact-Filling Questionnaire Method to Help Non-Experts Talk to LegalAI Assistant"](), Yuting Huang, **Yiquan Wu**\*, Meitong Guo, Ang Li, Xiaozhong Liu, Keting Yin, Fei Wu, Kun Kuang
+- ``ACL'26-Findings`` ["‘I Don't Know What to Say’: A Fact-Filling Questionnaire Method to Help Non-Experts Talk to LegalAI Assistant"](https://aclanthology.org/2026.findings-acl.592/), Yuting Huang, **Yiquan Wu**\*, Meitong Guo, Ang Li, Xiaozhong Liu, Keting Yin, Fei Wu, Kun Kuang
 
-- ``ACL'26-Findings`` __["SplitThenMerge: Token-Level Skill-Compositional Sparse Mixture-of-Experts for Complex Domain-Specific Tasks"](), Yuting Huang, Jiawen Zhang, **Yiquan Wu**\*, Yinghao Hu, Fei Wu, Kun Kuang
+- ``ACL'26-Findings`` __["SplitThenMerge: Token-Level Skill-Compositional Sparse Mixture-of-Experts for Complex Domain-Specific Tasks"](https://aclanthology.org/2026.findings-acl.606/), Yuting Huang, Jiawen Zhang, **Yiquan Wu**\*, Yinghao Hu, Fei Wu, Kun Kuang
   
-- ``ACL'26`` ["SAFO: Stable Adaptive Fairness Optimization for LLM-Based Social Survey Simulation"](), Chenxi Lin, Zhuoren Jiang, Kaisong Song, **Yiquan Wu**
+- ``ACL'26`` ["SAFO: Stable Adaptive Fairness Optimization for LLM-Based Social Survey Simulation"](https://aclanthology.org/2026.acl-long.1458/), Chenxi Lin, Zhuoren Jiang, Kaisong Song, **Yiquan Wu**
   
 - ``ICAIL'26`` ["Retrieval, Discrimination, and Execution: A Synergistic LLM Framework for Legal Mathematical Reasoning Task"](), Jiawen Zhang, Bowen Tan, Yuting Huang, Xiao Chi, Bin Wei, Minghui Xiong, **Yiquan Wu**\*
   
