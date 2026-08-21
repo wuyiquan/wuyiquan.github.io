@@ -16,17 +16,18 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Hello! I am an Assistant Professor (ZJU-100 Young Professor, Doctoral Supervisor) at Zhejiang University. I received my Ph.D. from Zhejiang University under the supervision of Prof. [Kun Kuang](https://kunkuang.github.io/) and Prof. [Fei Wu](https://mypage.zju.edu.cn/wufei). I also earned my B.S. degree from Zhejiang University. 
+Hello! I am an Assistant Professor (ZJU-100 Young Professor) and doctoral supervisor at Zhejiang University, with joint affiliations in the **Guanghua Law School** and the **School of Artificial Intelligence**. I received my Ph.D. from Zhejiang University under the supervision of Prof. [Kun Kuang](https://kunkuang.github.io/) and Prof. [Fei Wu](https://mypage.zju.edu.cn/wufei), and my doctoral dissertation was selected as one of Zhejiang University’s Outstanding Doctoral Dissertations. I also earned my B.S. degree from Zhejiang University.
 
-I actively collaborate with Prof. [Xiaozhong Liu](https://www.wpi.edu/people/faculty/xliu14) from Worcester Polytechnic Institute and Prof. [Adam Jatowt](https://adammo12.github.io/aj/) from the University of Innsbruck.
+I actively collaborate with Prof. [Xiaozhong Liu](https://www.wpi.edu/people/faculty/xliu14) at Worcester Polytechnic Institute and Prof. [Adam Jatowt](https://adammo12.github.io/aj/) at the University of Innsbruck.
 
-My research interests encompass LegalAI, Large Language Models and Natural Language Processing. I have published over 20 papers in prestigious conferences and journals such as ACL, EMNLP, NAACL, SIGIR, AAAI, KDD, AI&Law and WWW.
+My research interests include LegalAI, Large Language Models, and Natural Language Processing. I have published more than 30 papers in leading conferences and journals, including ACL, EMNLP, NAACL, SIGIR, AAAI, KDD, WWW, AI&Law, and AI Review.
 
-I am the lead contributor to the open-source legal LLM project [wisdomInterrogatory](https://github.com/zhihaiLLM/wisdomInterrogatory), which earned me an invitation to participate in the [Yunqi Conference](https://yunqi.aliyun.com/).
+I am the lead contributor to the open-source legal LLM project [wisdomInterrogatory](https://github.com/zhihaiLLM/wisdomInterrogatory), which led to an invitation for me to participate in the [Yunqi Conference](https://yunqi.aliyun.com/).
 
-❗️I'm currently seeking graduate students. If you are interested in applying or collaborating with me, please feel free to [contact me](mailto:wuyiquan@zju.edu.cn).
+❗️I am currently recruiting graduate students. If you are interested in applying to join my group or collaborating with me, please feel free to [contact me](mailto:wuyiquan@zju.edu.cn).
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉🎉 **Two** papers are accepted by EMNLP'26!
 - *2026.05*: &nbsp;🎉🎉 **One** paper is accepted by KDD'26!
 - *2026.04*: &nbsp;🎉🎉 **Three** papers are accepted by ACL'26!
 - *2026.04*: &nbsp;🎉🎉 **One** paper is accepted by ICAIL'26! 
@@ -34,12 +35,6 @@ I am the lead contributor to the open-source legal LLM project [wisdomInterrogat
 - *2026.01*: &nbsp;🎉🎉 We successfully organized the AILaw Bridge (Bridge between Artificial Intelligence and Law) at AAAI 2026!  
 - *2025.11*: &nbsp;🎉🎉 **Two** papers are accepted by AAAI'26! 
 - *2025.09*: &nbsp;🎉🎉 Honored to deliver a talk at the Faculty of Law, HKU!
-- *2025.08*: &nbsp;🎉🎉 **Two** papers are accepted by EMNLP'25! 
-- *2025.07*: &nbsp;🎉🎉 **One** paper is accepted by Computer Law & Security Review! 
-- *2025.05*: &nbsp;🎉🎉 **Two** papers are accepted by ACL'25!
-- *2025.04*: &nbsp;🎉🎉 **One** paper is accepted by Artificial Intelligence and Law! 
-- *2025.04*: &nbsp;🎉🎉 **Two** papers are accepted by ICAIL'25! 
-- *2025.01*: &nbsp;🎉🎉 My doctoral dissertation was selected as an Outstanding Doctoral Dissertation of Zhejiang University! 
 
 # 📝 Projects and Publications
 
@@ -148,7 +143,6 @@ The platform can be accessed [here](https://zjughls.jinriyuefa.com/login).
 - Organization Committee:
 
   [Internal Communication Chairs, ACL2025](https://2025.aclweb.org/organization/), [Forum Chair, ChinaLLM2025](https://www.itdks.com/Home/Act/apply?id=8346), [Committee, AILaw@AAAI26](https://bridge-ai-law.github.io/)
-
 - Talk:
 
 <div style="display: flex; align-items: center; gap: 15px;">
@@ -185,9 +179,9 @@ The platform can be accessed [here](https://zjughls.jinriyuefa.com/login).
 
 <!-- ![Image](../images/basketball.png "basketball") -->
 
-- ``2019 - 2024`` Captain of the Zhejiang University Men's Basketball Team.
-
 - ``2024 - Present`` Assistant Coach of the Zhejiang University Men's Basketball Team.
+  
+- ``2019 - 2024`` Captain of the Zhejiang University Men's Basketball Team.
 
 - ``2019, 2020, 2021`` Outstanding Athlete of Chinese University Basketball Association League (CUBAL).
 
